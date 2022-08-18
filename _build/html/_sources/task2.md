@@ -77,21 +77,12 @@ It is not assessed, but you are writing for an uninformed reader -the client in 
 Think of this section as a literature review where you first summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely, and you can use anything produced by an industry professional, e.g., online articles, whitepapers, techincal documentation, etc. This section must have **four** different works cited following [APA guidelines](task2:sources). Normally, a proposal would cite sources as needed, but for evaluation purposes a single section demonstraing research was needed. 
 
 :::{tip}
-Stuck? Comeback to this section later. You should conduct research while writing other sections collecting sources connected to your project along the way. Hang on to any extra sources as you'll need three diffent works for Task 3.   
+Stuck? Comeback to this section later. You will likely collect sources conducting research for other sections collecting sources connected to your project along the way. Hang on to any extras, as you'll need *three diffent* works for Task 3.   
 :::
-
-
-**On onedrive:**
-
-<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="300px" />
-
-![Google Scholar Libraries](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif "Google Scholar Libraries")
-
-![Google Scholar Libraries](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif#image-thumb "Google Scholar Libraries")
-
 
 :::{tip}
 google.scholar>setting>libraires>add WGU and others
+<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="300px" />
 :::
 
 ## Sections C and D: Rationale and Current Envrionment
@@ -158,6 +149,10 @@ Create a table providing *Duration*, *Projected start date*, and *Anticipated en
 |Some deliverable|14 days|7/16/2022|7/30/2022|
 |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
+```{note}
+*All* dates must be in the future. Task 2 is a proposal and should be written as if you are trying to convince the client to adopt your plan. Even if your capstone is based on an already completed project, you should write task 2 as though it hasn’t been completed.
+```
+
 (task2:H)=
 ### Outcome
 
@@ -174,6 +169,10 @@ Grammar and sources are the *most common* reason for returned submission! Even s
 After, focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/)![](c:/Users/Jim/Downloads/grammarly.png=25x25) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app you sometimes need to wait before mistakes are caught. 
 
 For sources, you should follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+
+:::{warning}
+Students have reported missed mistakes when using the Google doc grammarly extension. We advise that you copy and paste into the online app, or purchase the premium version for MS Word. 
+:::
 
 ## FAQ
 **I've completed task 2. Should I send it to my course instructror for review?** 

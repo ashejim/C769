@@ -46,7 +46,7 @@ An example of a more typical passing proposal:
 
 ### Sections E and F
 
-<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
 
 ### Sections G and H
@@ -57,7 +57,7 @@ An example of a more typical passing proposal:
 ## Task 3
 
 (resources:task3)=
-### Completing task 3**
+### Completing task 3
 
 <iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
