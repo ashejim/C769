@@ -71,7 +71,7 @@ First, understand the project's requirements. What they are -and what they aren'
 >
 </iframe>
 
-As task 3, the Reoort, involves *mostly* rewritting the Proposal, task 2 represents 70-80% of the caspsone work. For a more indepth understanding of this crucial task, view the section by section explanation of tasks 2: [](resources:task2) and how to write task 3 [](resources:task3) 
+As task 3, the Reoort, involves *mostly* rewritting the Proposal, task 2 represents 80-90% of the caspsone work. For a more indepth understanding of this crucial task, view the section by section explanation of tasks 2: [](resources:task2) and how to write task 3 [](resources:task3) 
 
 ```{tableofcontents}
 ```
