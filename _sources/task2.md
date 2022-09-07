@@ -1,14 +1,14 @@
 # Task 2
 
 Write your proposal following **Task 2: The Proposal template**:
-> [![Task 2: the Proposal template](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/t2_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
+> [![Task 2: the Proposal template](./url_images/t2_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
 To gauge the level of detail evaluators typically expect, review this [task 2 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=p1haS7) - this is a passing albeit not 
 great project. 
 
 <div class = "tasklist">
 
-   <input type="checkbox"> Pass [**task 1**](task1). 
+   <input type="checkbox"> Pass [task 1](task1). 
 
    <input type="checkbox"> Watch *all* of the [**Task 2 videos**](resources:task2) (they are short). 
    
@@ -36,7 +36,7 @@ great project.
 
    <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), export as a pdf, and submit. 
 
-   <input type="checkbox"> Start [**Task 3**](task3)! 
+   <input type="checkbox"> Start [task 3](task3)! 
 
 </div>
 
@@ -81,7 +81,8 @@ Stuck? Return to this section later. You will likely collect sources while condu
 :::
 
 :::{tip}
-google.scholar>setting>libraires>add WGU and others
+You can search WGU's and other open-source libraries using Google.scholar. Go to: >'google.scholar>setting>libraires>' 
+and then add WGU and other libraries.
 <img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="300px" />
 :::
 

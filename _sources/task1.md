@@ -7,7 +7,7 @@
 
 ## Choosing a Topic
 
-The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our (instructors) signature, and we look for the following:
+The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our (instructors') signature, and we look for the following:
 
 1. *Relation* to your degree emphasis.
 2. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
@@ -23,14 +23,13 @@ The approval form ensures you start in the right direction before investing time
 >
 </iframe>
 
-Review the 
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see this [task 1](resources:task1:task1example, [task 2](resources:task2:task2example), and [task 3](resources:task3:task3example) examples. 
 
 ## Topic Approval
 
 Once you've decided on a topic, complete the approval form following the template:
 
-> [![Topic Approval Form](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/C769_t1_approval.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
-
+> [![Topic Approval Form](./url_images/C769_t1_approval.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
 
 Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to your course instructor** who will either sign it or provide feedback.
 
@@ -47,7 +46,7 @@ Directly emailing your assigned course instructor is the fastest and often best 
 
 Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. 
 
-> [![Waiver Form](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/IT%20courses%20-WGU%20onedrive/C769/linked%20resources%20for%20students/C769_waiver_form_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
+> [![Waiver Form](./url_images/769_waiver_form_thumb-1.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
 
 In most cases, obtaining authorization can be avoided by fabricating or masking identifying information.      
 
