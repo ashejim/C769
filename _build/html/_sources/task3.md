@@ -5,7 +5,7 @@
 
 (task3:template)=
 Write your conclusion report following the template, **Task 3: The Conclusion**:
-> [![Task 2: the Proposal template](https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/t3_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
+> [![Task 3: the Conclusion template](./url_images/t3_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
 (task3:example)=
 To gauge the level of detail evaluators typically expect, review this [task 3 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=pGEnfI). 
