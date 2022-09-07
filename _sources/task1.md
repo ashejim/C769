@@ -29,7 +29,7 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 
 Once you've decided on a topic, complete the approval form following the template:
 
-> [![Topic Approval Form](./url_images/C769_t1_approval.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
+> [![Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
 
 Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to your course instructor** who will either sign it or provide feedback.
 
@@ -46,7 +46,7 @@ Directly emailing your assigned course instructor is the fastest and often best 
 
 Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. 
 
-> [![Waiver Form](./url_images/769_waiver_form_thumb-1.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
+> [![Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
 
 In most cases, obtaining authorization can be avoided by fabricating or masking identifying information.      
 
