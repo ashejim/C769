@@ -5,11 +5,11 @@
 (resources:task1:task1example)=
 ### Topic Approval Form Template
 
-> [![Topic Approval Form](./url_images/C769_t1_approval.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
+> [![Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
 
 ### Waiver Form
 
-> [![Waiver Form](./url_images/769_waiver_form_thumb-1.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
+> [![Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
 
 ### Overview Video
 
@@ -31,13 +31,13 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 ### Task 2 Template
 
 Write your proposal following **Task 2: The Proposal template**:
-> [![Task 2: the Proposal template](./url_images/t2_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
+> [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
 (resources:task2:task2example)=
 ### Task 2 Example
 
 An example of a typical passing proposal: 
-> [![Task 2 example](./url_images/example_Task2_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=1ySCvx) 
+> [![Task 2 example](https://github.com/ashejim/C769/blob/main/url_images/example_Task2_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=1ySCvx) 
 
 ### Sections A1, A2, and A3
 
@@ -76,10 +76,11 @@ An example of a typical passing proposal:
 ### Task 3 Template
 
 Write your proposal following **Task 3: The Conclusion template**:
-> [![Task 3: the conclusion template](./url_images/t3_template_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
+> [![Task 3: the conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
 (resources:task3:task3example)=
 ### Task 3 Example
 
 An example of an average passing conclusion: 
-> [![Task 3 example](./url_images/example_Task2_thumb.png#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=ONWBfw) 
+> [![Task 3 example](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=ONWBfw) 
+

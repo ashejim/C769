@@ -54,7 +54,7 @@
 # \end{align}
 # $$
 
-# In[1]:
+# In[ ]:
 
 
 from matplotlib import rcParams, cycler
@@ -63,7 +63,7 @@ import numpy as np
 plt.ion()
 
 
-# In[2]:
+# In[ ]:
 
 
 # Fixing random state for reproducibility

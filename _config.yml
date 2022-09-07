@@ -51,3 +51,10 @@ myst_enable_extensions:  # default extensions to enable in the myst parser. See 
     - smartquotes
     - substitution
     - tasklist
+
+#fix issues with jb build not finding relative paths? 
+#execute:
+  #execute_notebooks : off
+
+execute:
+  execute_notebooks: auto

@@ -34,6 +34,11 @@ img[src$='#image-thumb']{
     border: 1px solid #D5DBDB;
 }
 
+.image-thumb img{
+    height: 200px;
+    border: 1px solid #D5DBDB;
+}
+
 .image-inline img{
     display: block;
     margin-left: auto;
