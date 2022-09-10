@@ -84,3 +84,29 @@ Write your proposal following **Task 3: The Conclusion template**:
 An example of an average passing conclusion: 
 > [![Task 3 example](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=ONWBfw) 
 
+## General Resources
+
+### Student Resources
+-[Writing Center](https://my.wgu.edu/success-centers/writing-center)
+-[Student Resource Hub](https://resource-hub.wgu.edu/)
+
+### Grammarly.com
+
+Check your grammar using [Grammarly.com](https://www.grammarly.com/)![](c:/Users/Jim/Downloads/grammarly.png=25x25) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+
+:::{warning}
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
+:::
+
+### APA 
+Your paper should adhere to [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+
+### Libraries
+- [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
+- [google.scholar.com](https://scholar.google.com/) 
+
+:::{tip}
+You can search [WGU's library](https://wgu.libguides.com/friendly.php?s=library) and other open-source libraries using [google.scholar.com](https://scholar.google.com/) Go to >'Google.scholar>setting>libraires>' 
+and then add WGU and other libraries.
+<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="200px" />
+:::

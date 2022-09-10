@@ -54,6 +54,8 @@ Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a
 (task3:B)=
 ## Section B: Other Works
 The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:sources), e.g., (Author year). 
+- [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
+- [google.scholar.com](https://scholar.google.com/) 
 
 (task3:C)=
 ## Section C: Changes to Project Environment
@@ -65,7 +67,7 @@ Adding any variations, revise [task 2 section E](task2:E) from task 2 from the f
 
 (task3:E)=
 ## Section E: Project Goals and Objectives
-Discuss how successfully completed goals and objectives from (task2:F) were met. *If* any goals or objectives were not met, discuss why.  
+Discuss how completed goals and objectives from (task2:F) were met. *If* any goals or objectives were not met, discuss why.  
 
 (task3:F)
 ## Section F: Project Timeline
@@ -117,11 +119,14 @@ Grammar and sources are the *most common* reason for returned submission! Howeve
 
 After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/)![](c:/Users/Jim/Downloads/grammarly.png=25x25) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
 
-```{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. We advise that you copy and paste it into the online app or purchase the premium version for MS. 
-```
-
 For sources, you should follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+
+:::{warning}
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
+:::
+
+
+For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center). 
 
 ## FAQ
 
@@ -133,7 +138,7 @@ The most common reasons for returned task 3's:
 3)	No narrative for [part F, Project Timeline](task3:F).
 4) Insufficient details for section X.
 
-1-3 are easily avoidable. Being cited for "insufficient details" is a matter of subjectivity, but it is also easy to fix -just add more details. As task 3 mostly implements the already passed plan of task 2 -it is mostly already passed.   
+1-3 is easily avoidable. Being cited for "insufficient details" is a matter of subjectivity, but it is also easy to fix -just add more details. Since task 3 mostly implements the already passed plan of task 2 -it is mostly already passed.   
 
 **How long should task 3 be?**
 

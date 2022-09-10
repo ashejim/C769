@@ -54,7 +54,7 @@
 # \end{align}
 # $$
 
-# In[ ]:
+# In[1]:
 
 
 from matplotlib import rcParams, cycler
