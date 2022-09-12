@@ -107,7 +107,7 @@ You must include at least **two** things you created, e.g., network maps, webpag
 ```{tip}
 If reusing materials from an open source or actual project, mask any identifying information.
 
-<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/edit_deliverable.gif" height="175px" />
+<img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" />
 ```
 
 (task3:sources)=
