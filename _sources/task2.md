@@ -3,7 +3,7 @@
 Write your proposal following **Task 2: The Proposal template**:
 > [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
-To gauge the level of detail evaluators typically expect, review this [task 2 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=p1haS7) - this is a passing albeit not 
+To gauge the level of detail evaluators typically expect, review this [task 2 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=p1haS7) - this is a passing albeit not a
 great project. 
 
 <div class = "tasklist">
@@ -18,7 +18,7 @@ great project.
 
    <input type="checkbox"> Watch the video, read the example, and write [D: Current Environment](task2:D). 
 
-   <input type="checkbox"> Watch the video, read the example, and write [F: Goals, Objectives, and deliverable](task2:F). 
+   <input type="checkbox"> Watch the video, read the example, and write [F: Goals, Objectives, and deliverables](task2:F). 
    
    <input type="checkbox"> Watch the video, read the example, and write [G: Timeline](task2:F).
    
@@ -75,15 +75,18 @@ It is not assessed, but you are writing for an uninformed reader -the client nee
 :::
 
 Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. You can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. This section must have **four** different works cited following [APA guidelines](task2:sources). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research. 
+- [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
+- [google.scholar.com](https://scholar.google.com/) 
 
 :::{tip}
 Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.   
 :::
 
 :::{tip}
-You can search WGU's and other open-source libraries using Google.scholar. Go to: >'google.scholar>setting>libraires>' 
+You can search [WGU's library](https://wgu.libguides.com/friendly.php?s=library) and other open-source libraries using [google.scholar.com](https://scholar.google.com/) Go to >'Google.scholar>setting>libraires>' 
 and then add WGU and other libraries.
-<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="300px" />
+
+<img src="https://github.com/ashejim/C769/blob/main/url_images/google_scholar_demo.gif?raw=true" height="300px" />
 :::
 
 ## Sections C and D: Rationale and Current Environment
@@ -129,10 +132,10 @@ Step 2 will provide a detailed implementation plan outline in section A2. Relate
 ### Goals, Objects, & Deliverables
 
 For this section,
-1. Provide a table outlining project goals, objects, and deliverables.
+1. Provide a table outlining project goals, objectives, and deliverables.
 2. Separate from the table, describe each listed goal and objective.
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and midmanagement tasks, respectively. **Deliverables** are tangible tasks completed supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks completed supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
 
 ## Sections G and H: Timeline & Outcomes
 
@@ -144,7 +147,7 @@ For this section,
 (task2:G)=
 ### Project Timeline with Milestones
 
-Create a table providing *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed. 
+Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed. 
 
 |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
 --- | --- | ---| ---|
@@ -174,8 +177,10 @@ After focusing on content, check your grammar using [Grammarly.com](https://www.
 For sources, you should follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
 
 :::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise that you copy and paste it into the online app or purchase the premium version for MS Word. 
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
 :::
+
+For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center). 
 
 ## FAQ
 **I've completed task 2. Should I send it to my course instructor for review?** 
@@ -188,7 +193,7 @@ You have *unlimited* submissions but limited time. And, typically this is the be
 
 No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and will vary depending on the project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
 
-**How many submissions attempts do I have?**
+**How many submission attempts do I have?**
 You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.   
 
 **I can't find sources for section B, *Other Works*. What can I do?**
