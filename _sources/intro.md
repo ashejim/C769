@@ -1,6 +1,6 @@
 # Welcome to C769!
 
-Welcome! The IT capstone is a written project demonstrating competency in your field through communicating the planning and implementing of an IT solution to a business problem.
+Welcome! The IT capstone is a written project demonstrating competency in your field through communicating the planning and implementation of an IT solution to a business problem.
 
 The capstone includes three parts:
 1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you started in the right direction.
