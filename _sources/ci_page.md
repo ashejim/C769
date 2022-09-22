@@ -6,12 +6,14 @@
 
 This course was designed to include all the resources you need to learn the skills and competencies on which you will be assessed. One of your most important resources is your instructor, who will actively monitor your progress and offer one-on-one instruction. Your instructor can discuss your learning progress, help you find answers to content questions, and give you tools to navigate the capstone successfully. Throughout your engagement with this course, it is expected that you continue communicating with your program mentor. Your program mentor will help you set weekly study goals, recommend specific learning materials, and tell you what to expect in this course and how it aligns to your program’s competencies.
 
+If your assigned course instructor is out of office, you should contact
+
 
 ## Candice Allen
 
 :::{margin} Contact Info
 📞 <a href="tel:+13854285987">(385) 428-5987</a> </br>
-📧 [candice.allen@wgu.edu](candice.allen@wgu.edu?subject=C769%20capstone%) </br>
+📧 [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20question%20for%20Candice%20Allen) (include Candice's name in the subject line) </br>
 📅 [Schedule an Appointment](https://timetrade.com/app/wgu-mentoring/workflows/WGU100/schedule/?resourceId=00530000006rcrYAAQ&locationId=course_mentoring&appointmentTypeGroupId=CM&attendee_person_firstName=Eric&attendee_person_lastName=Miller&attendee_email=emil389@my.wgu.edu&attendee_mobile_phoneNumber=7343184521&attendee_customField0=004099080&questionId__course_code=C769) </br>
 <table _ngcontent-nfu-c382="" class="margin--bottom--10"><caption _ngcontent-nfu-c382="" class="visually-hidden"> Office hours for Candice Allen </caption><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">MON</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">6:00 AM</span> to <span _ngcontent-nfu-c382="">3:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">TUE</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">10:00 AM</span> to <span _ngcontent-nfu-c382="">6:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">WED</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">9:00 AM</span> to <span _ngcontent-nfu-c382="">7:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">THU</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">6:00 AM</span> to <span _ngcontent-nfu-c382="">2:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">FRI</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">7:00 AM</span> to <span _ngcontent-nfu-c382="">3:00 PM </span></div><!----></td></tr><!----></table>
 :::
@@ -20,7 +22,7 @@ This course was designed to include all the resources you need to learn the skil
 :height: 200px
 :align: center
 ```
-Dr. Candice Allen has worked for WGU over ten years. Before coming to WGU she taught a mixture of IT fundamental courses and business courses at post secondary colleges in Northwest Indiana and online. She graduated with her bachelor's degree from Purdue University and has two master's degree (IDOL and MSIS). She attended Capella University and AIU to obtain her master's degree. Currently she is a course instructor for the College of IT.
+Candice Allen has worked for WGU over ten years. Before coming to WGU she taught a mixture of IT fundamental courses and business courses at post secondary colleges in Northwest Indiana and online. She graduated with her bachelor's degree from Purdue University and has two master's degree (IDOL and MSIS). She attended Capella University and AIU to obtain her master's degree. Currently she is a course instructor for the College of IT.
 
 ## Jim Ashe
 
@@ -36,12 +38,12 @@ Dr. Candice Allen has worked for WGU over ten years. Before coming to WGU she ta
 :height: 200px
 :align: center
 ```
-Dr. James Ashe is a dedicated maths, computer science, and statistics teacher with over 20 years of experience teaching in an online, large university, small college, HBCU, and community college setting. In 2016 he joined WGU to help students in the newly created Math Center. In 2018 Jim joined IT to contribute to the new Computer Science program. Currently, he supports the IT, data analytics, and computer science capstone. Though his research studied abstract objects, experimentation, creating examples, and producing necessitated a lot of coding. It was here that he developed a love for programming and computer science. He has a Ph.D. and MS in mathematics from the University of Tennessee and a BS in history with a minor in art from East Tennessee State University.
+Dr. James Ashe is a dedicated maths, computer science, and statistics teacher with over 20 years of experience teaching in an online, large university, small college, HBCU, and community college setting. In 2016 he joined WGU to help students in the newly created Math Center. In 2018 Jim joined IT to contribute to the new Computer Science program. Currently, he supports the IT, data analytics, and computer science capstone. Though his research studied abstract objects, experimentation, creating examples, and producing necessitated a lot of coding. It was here that he developed a love for programming and computer science. He has a Ph.D. and MS in mathematics from the University of Tennessee and a BS in history with a minor in art from East Tennessee State University. Jim and his wife reside in Asheville, NC, with their four children, four cats, a dog, and an undetermined number of chickens. In his nonexistent spare time, he enjoys reading and kayaking. 
 
 ## Joe Barnhart
 
 :::{margin} Contact Info 
-📞 <a href="tel:+13854284889>(385) 428-4889 </a> </br>
+📞 <a href="tel:+13854284889"> (385) 428-4889 </a> </br>
 📧 [joe.barnhart@wgu.edu](mailto:joe.barnhart@wgu.edu?subject=C769%20capstone%) </br>
 📅 [Schedule an Appointment](https://www02a.timetrade.com/app/wgu-mentoring/workflows/WGU100/schedule/?resourceId=005a000000CKD2WAAX&locationId=course_mentoring&appointmentTypeGroupId=CM&attendee_person_firstName=Anthony&attendee_person_lastName=Patricca&attendee_email=apatr83@my.wgu.edu&attendee_mobile_phoneNumber=6238759573&attendee_customField0=008019894&questionId__course_code=C769) </br>
 <table _ngcontent-clb-c382="" class="margin--bottom--10"><caption _ngcontent-clb-c382="" class="visually-hidden"> Office hours for Joe Barnhart </caption><tr _ngcontent-clb-c382="" class="ng-star-inserted"><th _ngcontent-clb-c382="" class="text--right"><span _ngcontent-clb-c382="" class="table-row"><b _ngcontent-clb-c382="">TUE</b></span></th><td _ngcontent-clb-c382=""><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">7:30 AM</span> to <span _ngcontent-clb-c382="">9:30 AM </span></div><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">2:00 PM</span> to <span _ngcontent-clb-c382="">8:00 PM </span></div><!----></td></tr><tr _ngcontent-clb-c382="" class="ng-star-inserted"><th _ngcontent-clb-c382="" class="text--right"><span _ngcontent-clb-c382="" class="table-row"><b _ngcontent-clb-c382="">WED</b></span></th><td _ngcontent-clb-c382=""><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">7:30 AM</span> to <span _ngcontent-clb-c382="">4:30 PM </span></div><!----></td></tr><tr _ngcontent-clb-c382="" class="ng-star-inserted"><th _ngcontent-clb-c382="" class="text--right"><span _ngcontent-clb-c382="" class="table-row"><b _ngcontent-clb-c382="">THU</b></span></th><td _ngcontent-clb-c382=""><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">7:30 AM</span> to <span _ngcontent-clb-c382="">9:30 AM </span></div><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">2:00 PM</span> to <span _ngcontent-clb-c382="">8:00 PM </span></div><!----></td></tr><tr _ngcontent-clb-c382="" class="ng-star-inserted"><th _ngcontent-clb-c382="" class="text--right"><span _ngcontent-clb-c382="" class="table-row"><b _ngcontent-clb-c382="">FRI</b></span></th><td _ngcontent-clb-c382=""><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">7:30 AM</span> to <span _ngcontent-clb-c382="">4:30 PM </span></div><!----></td></tr><tr _ngcontent-clb-c382="" class="ng-star-inserted"><th _ngcontent-clb-c382="" class="text--right"><span _ngcontent-clb-c382="" class="table-row"><b _ngcontent-clb-c382="">SAT</b></span></th><td _ngcontent-clb-c382=""><div _ngcontent-clb-c382="" class="margin--left ng-star-inserted"><span _ngcontent-clb-c382="">8:00 AM</span> to <span _ngcontent-clb-c382="">12:00 PM </span></div><!----></td></tr><!----></table>
@@ -52,7 +54,10 @@ Dr. James Ashe is a dedicated maths, computer science, and statistics teacher wi
 :height: 200px
 :align: center
 ```
-Dr. Joe Barnhart builds houses and doesn't update his saleforce profile. Apparently he is very funny -book an appointment right away!!
+How about this:
+
+Dr. Joe Barnhart has a Ph.D. from Texas A&M in automated systems. He’s taught in higher education for over 35 years. He was an assistant direction of IT Services at a university for 15 years as well as a technical writer for a software company. He’s apparently a funny guy. Book a call with him and find out if it’s true.
+
 
 ## Will Dean
 
@@ -84,5 +89,5 @@ Dr. William Dean is an only child and a native of Louisville, KY. As a child, he
 :height: 200px
 :align: center
 ```
-Dr. Charles Paddock received his BS in Business from the University of New Orleans. Following a tour of duty in the Air Force, he returned to school and received his MBA concentrating in Systems and Operations Management and Ph.D. in Management Information Systems, both from the University of Houston. Charles previously taught at Arizona State University and The University of Nevada, Las Vegas and worked in the Research Centers of both Universities as a consultant to their corporate members. Charles joined WGU in February of 2006, and now lives in the South Carolina Upstate.
+Dr. Charles Paddock received his BS in Business from the University of New Orleans. Following a tour of duty in the Air Force, he returned to school and received his MBA concentrating in Systems and Operations Management and Ph.D. in Management Information Systems, both from the University of Houston. Charles previously taught at Arizona State University and The University of Nevada, Las Vegas and worked in the Research Centers of both Universities as a consultant to their corporate members. Charles joined WGU in February of 2006, and now lives in Salt Lake City, UT.
 
