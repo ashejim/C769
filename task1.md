@@ -23,6 +23,8 @@ The approval form ensures you start in the right direction before investing time
 >
 </iframe>
 
+
+
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see this [task 1](resources:task1:task1example), [task 2](resources:task2:task2example), and [task 3](resources:task3:task3example) examples. 
 
 ## Topic Approval

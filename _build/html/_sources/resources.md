@@ -1,4 +1,8 @@
 # C769 Resources
+<!-- hack to open links in new tab -->
+<head>
+    <base target="_blank">
+</head>
 
 ## Task 1 Resources
 
