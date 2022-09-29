@@ -61,7 +61,7 @@ The requirements for this section are identical to that of [task 2 section B](ta
 ## Section C: Changes to Project Environment
 Using task 2 sections [D](task2:D) and [E](task2:E) from task 2, describe how your project changed the client's environment. 
 
-(task3:D)
+(task3:D)=
 ## Section D: Methodology
 Adding any variations, revise [task 2 section E](task2:E) from task 2 from the future to the past tense.
 
@@ -69,25 +69,25 @@ Adding any variations, revise [task 2 section E](task2:E) from task 2 from the f
 ## Section E: Project Goals and Objectives
 Discuss how completed goals and objectives from (task2:F) were met. *If* any goals or objectives were not met, discuss why.  
 
-(task3:F)
+(task3:F)=
 ## Section F: Project Timeline
 1. Update the timeline table from [task 2 section G](task2:G) with columns for *Planned Duration*, *Actual Duration*, *Actual Start Date*, and *Actual End Date*.
 
-|Milestone or Deliverable  |Planned Duration  | Actual Duration  | Actual Start Date| Actual End date
---- | --- | ---| ---| ---|
-|Some milestones |7 days|7 days|7/23/2022|7/30/2022|
-|Some deliverables |14 days|10 days|7/18/2022|7/28/2022|
-|$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
+   |Milestone or Deliverable  |Planned Duration  | Actual Duration  | Actual Start Date| Actual End date
+   --- | --- | ---| ---| ---|
+   |Some milestones |7 days|7 days|7/23/2022|7/30/2022|
+   |Some deliverables |14 days|10 days|7/18/2022|7/28/2022|
+   |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
-```{note}
-*All* dates must be in the past. Task 3 is a conclusion report. Write as if you recently completed the project -even if the dates do not align with the task 2 projected end dates. Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. 
-```
+   ```{note}
+   *All* dates must be in the past. Task 3 is a conclusion report. Write as if you recently completed the project -even if the dates do not align with the task 2 projected end dates. Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. 
+   ```
 
 2. Following the updated timeline, write a narrative explaining any differences from the projected proposal timeline, [task 2 section G](task2:G). If there were no variances, explain why.
 
-```{warning}
-Do **not** leave this section blank. It is easy to overlook, but submissions with no timeline narrative will not be accepted. 
-```
+   ```{warning}
+   Do **not** leave this section blank. It is easy to overlook, but submissions with no timeline narrative will not be accepted. 
+   ```
 
 (task3:G)=
 ## Section G: Unanticipated Requirements

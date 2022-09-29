@@ -4,6 +4,9 @@
     <base target="_blank">
 </head>
 
+- **[Your Course Instructor](ci_page)**
+- **[ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=Assigned%20course%20instructor&subject=C769&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A)**
+
 ## Task 1 Resources
 
 (resources:task1:task1example)=
