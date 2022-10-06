@@ -3,8 +3,8 @@
 Write your proposal following **Task 2: The Proposal template**:
 > [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
-To gauge the level of detail evaluators typically expect, review this [task 2 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=p1haS7) - this is a passing albeit not a
-great project. 
+To gauge the level of detail evaluators typically expect, see the [task 2 examples](resources:examples) - passing, albeit not
+great, projects. 
 
 <div class = "tasklist">
 
@@ -16,25 +16,25 @@ great project.
 
    <div class = "tasklist2">
 
-   <input type="checkbox"> Watch the video, read the example, and write [D: Current Environment](task2:D). 
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [D: Current Environment](task2:D). 
 
-   <input type="checkbox"> Watch the video, read the example, and write [F: Goals, Objectives, and deliverables](task2:F). 
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [F: Goals, Objectives, and deliverables](task2:F). 
    
-   <input type="checkbox"> Watch the video, read the example, and write [G: Timeline](task2:F).
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [G: Timeline](task2:F).
    
-   <input type="checkbox"> Watch the video, read the example, and write [E: Methodology](task2:E).
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [E: Methodology](task2:E).
 
-   <input type="checkbox"> Watch the video, read the example, and write [C: Rationale](task2:C).
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [C: Rationale](task2:C).
    
-   <input type="checkbox"> Watch the video, read the example, and write [H: Outcome](task2:H).
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [H: Outcome](task2:H).
 
-   <input type="checkbox"> Watch the video, read the example, and write [A: Overview](task2:A) (review and reuse content from D, C, and E). 
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [A: Overview](task2:A) (review and reuse content from your D, C, and E). 
 
-   <input type="checkbox"> Watch the video, read the example, and write [B: Other Works](task2:B). 
+   <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [B: Other Works](task2:B). 
 
    </div>
 
-   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), export as a pdf, and submit. 
+   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), review the sources in the [task 2 examples](resources:examples), export as a pdf, and submit.
 
    <input type="checkbox"> Start [task 3](task3)! 
 
@@ -162,7 +162,7 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 (task2:H)=
 ### Outcome
 
-Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Time-based metrics work best, for example, from page 18 of the [task 2 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=p1haS7),
+Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Time-based metrics work best, for example, from page 18 of the [task 2 example](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf),
 >...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union {cite:p}`task_2_example`.
 
 (task2:sources)=
@@ -203,4 +203,4 @@ You are likely overinterpreting what's required. Rarely are submissions sent bac
 > "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
 **What does this comment mean?**
 
-It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create, manage references, and avoid such errors.
+It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples). 

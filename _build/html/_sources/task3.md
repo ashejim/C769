@@ -7,8 +7,7 @@
 Write your conclusion report following the template, **Task 3: The Conclusion**:
 > [![Task 3: the Conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
-(task3:example)=
-To gauge the level of detail evaluators typically expect, review this [task 3 example](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=pGEnfI). 
+To gauge the level of detail evaluators typically expect, review this [task 3 examples](resources:examples)). 
 
 ## Writing Task 3
 
@@ -17,7 +16,7 @@ To gauge the level of detail evaluators typically expect, review this [task 3 ex
 </iframe>
 :::
 
-*Most* of task 3 will update task 2 from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Differences are highlighted in the [task 3 template](task3:template) and discussed in the video. You must update task 2 as follows:
+*Most* of task 3 will update task 2 from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Review the the [task 3 examples](resources:examples) to understand what evaluators expect.  Differences between task 2 and 3  highlighted in the [task 3 template](task3:template) and discussed in the video. You must update task 2 as follows:
 <div class = "tasklist">
 
    <input type="checkbox"> Update title page, TOC,  headers, and footers.
@@ -142,7 +141,7 @@ The most common reasons for returned task 3's:
 
 **How long should task 3 be?**
 
-Review the [task 3 example](task3:example). As task 3 mainly rewrites task, task 3 is typically similar in length. They will assess task 3 independently of task 2. Don't assume they'll compare the two.  
+Review the [task 3 examples](resources:examples). As task 3 mainly rewrites task, task 3 is typically similar in length. They will assess task 3 independently of task 2. Don't assume they'll compare the two.  
 
 **My capstone is not a real project. What do I do for the deliverables?**
 

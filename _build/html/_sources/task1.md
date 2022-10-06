@@ -13,6 +13,10 @@ The approval form ensures you start in the right direction before investing time
 2. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
 3. The implementation of a [hard IT deliverable](task1:faq:hard) solving that problem.
 
+```{margin} What is hard IT deliverable?
+A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
+```
+
 <iframe 
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
     title="Choosing a topic" 
@@ -25,7 +29,9 @@ The approval form ensures you start in the right direction before investing time
 
 
 
-The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see this [task 1](resources:task1:task1example), [task 2](resources:task2:task2example), and [task 3](resources:task3:task3example) examples. 
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see these examples:
+
+- [tasks 1-3](resources:examples)
 
 ## Topic Approval
 

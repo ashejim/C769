@@ -1,3 +1,4 @@
+(resources)=
 # C769 Resources
 <!-- hack to open links in new tab -->
 <head>
@@ -5,11 +6,29 @@
 </head>
 
 - **[Your Course Instructor](ci_page)**
+
 - **[ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=Assigned%20course%20instructor&subject=C769&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A)**
+
+(resources:examples)=
+## Examples
+
+These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfullment of the requirements.  
+
+- **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf)
+
+- **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-b.pdf)
+
+- **BSCIA:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task1-bscia-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task2-bscia-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task3-bscia-a.pdf)
+
+(resources:examples:excellence)=
+### Excellence Archive
+
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see the above [Examples](resources:examples) section. 
+
 
 ## Task 1 Resources
 
-(resources:task1:task1example)=
+(resources:task1:task1template)=
 ### Topic Approval Form Template
 
 > [![Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
@@ -25,11 +44,9 @@
 >
 </iframe>
 
-(resources:task1:excellence)=
-### Excellence Archive
+### Task 1 Examples
 
-The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see the [task 2](resources:task2:task2example) and [task 3](resources:task3:task3example) examples. 
-
+See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
 
 (resources:task2)=
 ## Task 2 Resources
@@ -41,10 +58,9 @@ Write your proposal following **Task 2: The Proposal template**:
 > [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
 (resources:task2:task2example)=
-### Task 2 Example
+### Task 2 Examples
 
-An example of a typical passing proposal: 
-> [![Task 2 example](https://github.com/ashejim/C769/blob/main/url_images/example_Task2_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/Edh7No2A3uhAtlXnmQYuJMIBQO6pJE0xOe8m4J_J0n6wdg?e=1ySCvx) 
+See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
 
 ### Sections A1, A2, and A3
 
@@ -86,23 +102,26 @@ Write your proposal following **Task 3: The Conclusion template**:
 > [![Task 3: the conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
 (resources:task3:task3example)=
-### Task 3 Example
+### Task 3 Examples
 
-An example of an average passing conclusion: 
-> [![Task 3 example](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:b:/g/personal/jim_ashe_wgu_edu/EbuIx1Ufa8ZLpLkX-JTYg_kB23xYHTbAtxstp30M-00GSA?e=ONWBfw) 
+See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
 
 ## General Resources
 
 ### Student Resources
--[Writing Center](https://my.wgu.edu/success-centers/writing-center)
--[Student Resource Hub](https://resource-hub.wgu.edu/)
 
-### Grammarly.com
+- [Writing Center](https://my.wgu.edu/success-centers/writing-center)
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/)![](c:/Users/Jim/Downloads/grammarly.png=25x25) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+- [Student Resource Hub](https://resource-hub.wgu.edu/)
+
+### Grammar and Sources
+
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) 
+
+![](./url_images/icon-grammarly.png?raw=true#icon) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
 
 :::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatiable with MS Word. 
 :::
 
 ### APA 
