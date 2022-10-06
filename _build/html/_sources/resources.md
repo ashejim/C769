@@ -114,17 +114,19 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
 
+(resources:grammar)=
 ### Grammar and Sources
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) 
+(resources:grammar:grammarly)=
+#### Grammarly.com
 
-![](./url_images/icon-grammarly.png?raw=true#icon) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
 
 :::{warning}
 Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatiable with MS Word. 
 :::
 
-### APA 
+#### APA 
 Your paper should adhere to [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
 
 ### Libraries
