@@ -116,7 +116,7 @@ If reusing materials from an open source or actual project, mask any identifying
 Grammar and sources are the *most common* reason for returned submission! However, even minor grammatical errors can prevent a submission from passing.
 :::
 
-After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/)![](c:/Users/Jim/Downloads/grammarly.png=25x25) 📝 (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
 
 For sources, you should follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
 
