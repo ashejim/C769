@@ -66,7 +66,7 @@ Adding any variations, revise [task 2 section E](task2:E) from task 2 from the f
 
 (task3:E)=
 ## Section E: Project Goals and Objectives
-Discuss how completed goals and objectives from (task2:F) were met. *If* any goals or objectives were not met, discuss why.  
+Discuss how completed goals and objectives from [task 2 section f](task2:F) were met. *If* any goals or objectives were not met, discuss why.  
 
 (task3:F)=
 ## Section F: Project Timeline
