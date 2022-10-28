@@ -185,7 +185,7 @@ For the best writing help contact the [Writing Center](https://my.wgu.edu/succes
 ## FAQ
 **I've completed task 2. Should I send it to my course instructor for review?** 
 
-If you have specific questions on concerns -yes. However, in most cases, it's best just to submit. What suffices as “sufficient detail” is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
+If you have specific questions or concerns -yes. However, in most cases, it's best just to submit. What suffices as “sufficient detail” is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
 
 You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach. 
 
