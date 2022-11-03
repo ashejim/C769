@@ -57,9 +57,9 @@ The Proposal Overview has three parts:
 2. The IT Solution
 3. The Implementation Plan. 
 
-It is not assessed, but you are writing for an uninformed reader -the client needing your expertise. Instead, you should explain what's wrong with their situation, why your solution is the fix, and how you'll implement that solution. 
+It is not assessed, but you are writing for an uninformed reader -the client needing your expertise. Explain what's wrong with their situation, why your solution is the fix, and how you'll implement that solution. 
 
-<!-- Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend for several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts normally taken for granted which creates content. Also, WGU evaluators know nothing about the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, or how the solution should best be implemented for the greatest chance of success. These sections introduce them to your project and provide the context by which they assess other areas     -->
+Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend for several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts customarily taken for granted, which creates content. Also, WGU evaluators need to understand the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, and how you will implement the solution. These sections introduce them to your project and provide the context by which they assess other areas.
 
 ```{tip}
 - Write these sections last or return to them after writing each subsequent section to ensure your overview accurately summarizes your project. 
