@@ -5,6 +5,7 @@
     <base target="_blank">
 </head>
 
+(task1:chooseatopic)=
 ## Choosing a Topic
 
 The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our ([instructors'](ci_page)) signature, and we look for the following:
@@ -33,6 +34,7 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 
 - [tasks 1-3](resources:examples)
 
+(task1:topicapproval)=
 ## Topic Approval
 
 Once you've decided on a topic, complete the approval form following the template:
@@ -50,6 +52,7 @@ Directly emailing your assigned course instructor is the fastest and often best 
 * Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
 * Clearly state your questions or requests. 
 
+(task1:waiverform)=
 ## Waiver Form
 
 Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. 
@@ -94,3 +97,6 @@ You have unlimited attempts. However, incomplete submissions or submissions sign
 **What is a hard IT deliverable?**
 
 It is a physical or digital technological addition or improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone.  
+
+**Can I get the "welcome email?"**
+Yes, contact your assigned course instructor or see the sample [welcome email](resources:general:welcomeemail) in the [C769 Resources section](resources).

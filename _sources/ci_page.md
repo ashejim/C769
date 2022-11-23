@@ -1,10 +1,11 @@
 
-(ci_page)=
-# Course Faculty
 <!-- hack to open links in new tab -->
 <head>
     <base target="_blank">
 </head>
+
+(ci_page)=
+# Course Faculty
 
 One of your most important resources is your assigned C769 instructor, who will actively monitor your progress and offer one-on-one advice. Your instructor can discuss your progress, help you understand and fulfill the requirements, give you tools to successfully navigate the capstone, and help you revise returned submissions. Throughout your engagement with this course, it is expected that you continue communicating with your program mentor. Your program mentor will help you set weekly study goals, recommend specific learning materials, and tell you what to expect in this course and how it aligns with your program’s competencies.
 
