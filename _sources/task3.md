@@ -70,6 +70,11 @@ Discuss how completed goals and objectives from [task 2 section F](task2:F) were
 
 (task3:F)=
 ## Section F: Project Timeline
+
+<!-- TODO add? Also, do I need planned and actual dates on the milestones?
+For the timeline? Yes. They need a timeline for all items on the table, and they need to compare those dates to what was proposed. However, it doesn’t have actually to match task 2. The point is so they won’t have to open task 2 when assessing the timeline narrative and ‘unanticipated requirements’ of task 3.
+ -->
+
 1. Update the timeline table from [task 2 section G](task2:G) with columns for *Planned Duration*, *Actual Duration*, *Actual Start Date*, and *Actual End Date*.
 
    |Milestone or Deliverable  |Planned Duration  | Actual Duration  | Actual Start Date| Actual End date
