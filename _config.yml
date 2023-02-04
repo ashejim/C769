@@ -36,7 +36,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-
+  google_analytics_id: G-KX2MGTZB0G 
+  
 parse:
   #myst_substitutions:
      #sub3: My _global_ value!
@@ -57,3 +58,5 @@ myst_enable_extensions:  # default extensions to enable in the myst parser. See 
 #execute:
   #execute_notebooks : off
   #execute_notebooks: auto
+
+
