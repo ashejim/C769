@@ -7,7 +7,7 @@
 Write your conclusion report following the template, **Task 3: The Conclusion**:
 > [![Task 3: the Conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
-To gauge the level of detail evaluators typically expect, review this [task 3 examples](resources:examples)). 
+To gauge the level of detail evaluators typically expect, review these [task 3 examples](resources:examples). 
 
 ## Writing Task 3
 
