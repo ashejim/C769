@@ -1,7 +1,7 @@
 # Task 2
 
 Write your proposal following **Task 2: The Proposal template**:
-> [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
+> [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA)
 
 To gauge the level of detail evaluators typically expect, see the [task 2 examples](resources:examples) - passing, albeit not
 great, projects. 
@@ -19,13 +19,13 @@ great, projects.
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [D: Current Environment](task2:D). 
 
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [F: Goals, Objectives, and deliverables](task2:F). 
-   
+
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [G: Timeline](task2:F).
-   
+
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [E: Methodology](task2:E).
 
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [C: Rationale](task2:C).
-   
+
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [H: Outcome](task2:H).
 
    <input type="checkbox"> Watch the video, review the corresponding [task 2 example section](resources:examples), and write [A: Overview](task2:A) (review and reuse content from your D, C, and E). 
@@ -36,7 +36,7 @@ great, projects.
 
    <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), review the sources in the [task 2 examples](resources:examples), export as a pdf, and submit.
 
-   <input type="checkbox"> Start [task 3](task3)! 
+   <input type="checkbox"> Start [task 3](task3)!
 
 </div>
 
@@ -74,12 +74,20 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 </iframe>
 :::
 
-Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. You can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. This section must have **four** different works cited following [APA guidelines](task2:sources). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research. 
+Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. And you can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. Most importantly, you must have **four** different works cited following [APA guidelines](task2:sources). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research.
+
+1. **Review a work.** For example, online articles, blogs, case studies, white papers, videos, etc.
+2. **Summarize the work.** Simply tell your reader what's in the resource you reviewed, no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution.
+4. **Include an APA style in-text citation,** e.g., (Author, year); follow  [APA guidelines and use the MS reference tool] see (task2:sources)
+
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
-- [google.scholar.com](https://scholar.google.com/) 
+- [google.scholar.com](https://scholar.google.com/)
 
 :::{tip}
-Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.   
+Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.
+
+These resources do not have to be a one-to-one match to your project. What's accepted is very broad.
 :::
 
 :::{tip}
@@ -172,7 +180,7 @@ Provide objective, measurable criteria for success. You need specific details so
 Grammar and sources are the *most common* reason for returned submission! However, even minor grammatical errors can prevent a submission from passing.
 :::
 
-After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+After focusing on the content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
 
 For sources, you should follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
 
