@@ -12,7 +12,7 @@ The approval form ensures you start in the right direction before investing time
 
 1. *Relation* to your degree emphasis.
 2. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
-3. The implementation of a [hard IT deliverable](task1:faq:hard) solving that problem.
+3. The implementation of a [hard [IT deliverable](task1:faq:hard) that help solves that problem.
 
 ```{margin} What is hard IT deliverable?
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
@@ -28,11 +28,9 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 >
 </iframe>
 
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. 
 
-
-The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see these examples:
-
-- [tasks 1-3](resources:examples)
+For a more down-to-earth example of what's required, [tasks 1-3 examples](resources:examples). Most of the work will be in writing task 2. To understand what task 2 requires, review the [task 2 template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs) and [task 2 section-by-section videos](resources:task2:videos) (they are short).
 
 (task1:topicapproval)=
 ## Topic Approval
@@ -48,33 +46,37 @@ The topic approval form must be *signed by a* *[C769 course instructor](ci_page)
 ```
 
 Directly emailing your assigned course instructor is the fastest and often best way to get a signature. Whether emailing [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=my%20course%20instructor&subject=C769:%20capstone%20topic%20approval&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) or your CI directly, always practice professional communication:
-* Use your WGU email.
-* Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
-* Clearly state your questions or requests. 
+
+- Use your WGU email.
+- Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
+- Clearly state your questions or requests. 
 
 (task1:waiverform)=
 ## Waiver Form
 
-Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. 
+<!-- Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. -->
 
-> [![Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
+```{note}
+the waiver form is **only** required if your project is based upon or included restricted information. If no waiver form is submitted, Task 1 *B: Capstone Release Form*, passes automatically.
+```
 
-In most cases, obtaining authorization can be avoided by fabricating or masking identifying information.      
+In most cases, obtaining authorization can be avoided by fabricating or masking identifying information. But if you choose to move forward using restricted information, you will need to obtain documented permissions and submit them along with a waiver form to Assessments.
 
-:::{note}
+> [![Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7)
+
+<!-- :::{note}
 ![waiver checkbox](../C769/url_images/waiver-check-1box.png)
-:::
-
+::: -->
 
 ## FAQ
 
 **Do I need to set up an appointment to get approval?**
 
-No. Usually, students email the approval form to their instructor. We then sign to form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. 
+No. Usually, students email the approval form to their instructor. We then sign to form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor prior to the appointment.
 
-**What if I start writing task 2 and want to change things? Do I need to resubmit task 1?** 
+**What if I start writing task 2 and want to change things? Do I need to resubmit task 1?**
 
-No, not unless it's an entirely different topic. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you'll be asked to revise the approval form (if at all). So never let task 1 dictate what you do in task 2.    
+No, not unless it's an entirely different topic. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you'll be asked to revise the approval form (if at all). So never let task 1 dictate what you do in task 2.
 
 **Can I use projects from other WGU courses?**
 
@@ -86,12 +88,13 @@ You can type in your name, use a "fancy" font, or insert an image of your signat
 
 **What are the common reasons for task 1 being returned?**
 
-1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it.
-2. Both or no boxes are correctly marked on the waiver form. *Mark one and only one box*. 
+1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it. Both boxes or no boxes are correctly marked on the waiver form. *Mark one and only one box*.
+
+Note, the waiver form is **only** required if your project is based upon or included restricted information. Task 1 *B: Capstone Release Form*, passes automatically if no waiver form is submitted, i.e., the waiver is only needed if it's needed.
 
 **How many attempts are allowed for each assessment?**
 
-You have unlimited attempts. However, incomplete submissions or submissions significantly falling short of the minimum requirements may be *locked* from further submissions without instructor approval. Furthermore, such submissions do not receive meaningful evaluator comments. 
+You have unlimited attempts. However, incomplete submissions or submissions significantly falling short of the minimum requirements may be *locked* from further submissions without instructor approval. Furthermore, such submissions do not receive meaningful evaluator comments.
 
 (task1:faq:hard)=
 **What is a hard IT deliverable?**
