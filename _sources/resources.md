@@ -12,7 +12,7 @@
 (resources:examples)=
 ## Examples
 
-These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfullment of the requirements.  
+These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.  
 
 - **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf)
 
@@ -61,29 +61,32 @@ Write your proposal following **Task 2: The Proposal template**:
 (resources:task2:task2example)=
 ### Task 2 Examples
 
-See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
+See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections.
 
-### Sections A1, A2, and A3
+(resources:task2:videos)=
+### Task 2 Videos
+
+#### Sections A1, A2, and A3
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" 
  allowfullscreen allow="autoplay">
 </iframe>
 
-### Sections B and B1
+#### Sections B and B1
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
 
-### Sections C and D
+#### Sections C and D
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1fff04ae-4974-4999-b147-7fcb8d934904&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C and D: Rationale & Current Envrionment" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
 
-### Sections E and F
+#### Sections E and F
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
 
-### Sections G and H
+#### Sections G and H
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
