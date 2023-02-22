@@ -18,19 +18,19 @@ The approval form ensures you start in the right direction before investing time
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
 ```
 
-<iframe 
+<iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
     title="Choosing a topic" 
     width="640px"
     height="360px"
-    style="border: 1px solid #464646;" 
+    style="border: 1px solid #464646;"
     allowfullscreen allow="autoplay"
 >
 </iframe>
 
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. 
 
-For a more down-to-earth example of what's required, [tasks 1-3 examples](resources:examples). Most of the work will be in writing task 2. To understand what task 2 requires, review the [task 2 template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs) and [task 2 section-by-section videos](resources:task2:videos) (they are short).
+For a more down-to-earth example of what's required, [tasks 1-3 examples](resources:examples). Most of the work will be in writing task 2. To understand what task 2 requires, review the [task 2 template](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA) and [task 2 section-by-section videos](resources:task2:videos) (they are short).
 
 (task1:topicapproval)=
 ## Topic Approval
