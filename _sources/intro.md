@@ -3,6 +3,7 @@
 Welcome! The IT capstone is a written project demonstrating competency in your field through communicating the planning and implementation of an IT solution to a business problem.
 
 The capstone includes three parts:
+
 1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you started in the right direction.
 2. **Task two:** The Proposal -a detailed paper describing a client's problem and how you will implement an IT solution to solve it. Most of your work will be here.
 3. **Task three:** The Conclusion Report -a detailed paper describing the concluded project proposed in task two. Most of task three repeats task two.      
@@ -71,7 +72,7 @@ First, understand the project's requirements. What they are -and what they aren'
 >
 </iframe>
 
-Task 3, the Report, *mostly* rewrites the Proposal, task 2. Hence, task 2 represents 80-90% of the capstone work. For a more in-depth understanding of this crucial task, view the section-by-section [videos explaining task 2](resources:task2) and the [video on writing task 3](resources:task3). 
+Task 3, the Report, *mostly* rewrites the Proposal, task 2. Hence, task 2 represents 80-90% of the capstone work. For a more in-depth understanding of this crucial task, view the section-by-section [videos explaining task 2](resources:task2) and the [video on writing task 3](resources:task3).
 
 ```{tableofcontents}
 ```

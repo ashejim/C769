@@ -68,6 +68,7 @@ In most cases, obtaining authorization can be avoided by fabricating or masking 
 ![waiver checkbox](../C769/url_images/waiver-check-1box.png)
 ::: -->
 
+(task1:faq)=
 ## FAQ
 
 **Do I need to set up an appointment to get approval?**
@@ -89,6 +90,7 @@ You can type in your name, use a "fancy" font, or insert an image of your signat
 **What are the common reasons for task 1 being returned?**
 
 1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it. Both boxes or no boxes are correctly marked on the waiver form. *Mark one and only one box*.
+2. Both or neither box is marked on the waiver form. Mark one and only one box. See the [waiver form instructions](task1:waiver)
 
 Note, the waiver form is **only** required if your project is based upon or included restricted information. Task 1 *B: Capstone Release Form*, passes automatically if no waiver form is submitted, i.e., the waiver is only needed if it's needed.
 

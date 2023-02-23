@@ -16,10 +16,10 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 </iframe>
 :::
 
-*Most* of task 3 will update task 2 from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Review the the [task 3 examples](resources:examples) to understand what evaluators expect.  Differences between task 2 and 3  highlighted in the [task 3 template](task3:template) and discussed in the video. You must update task 2 as follows:
+*Most* of task 3 will update task 2 from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Review the [task 3 examples](resources:examples) to understand what evaluators expect.  Differences between tasks 2 and 3 are highlighted in the [task 3 template](task3:template) and discussed in the video. You must update task 2 as follows:
 <div class = "tasklist">
 
-   <input type="checkbox"> Update title page, TOC,  headers, and footers.
+   <input type="checkbox"> Update the title page, TOC,  headers, and footers.
 
    <input type="checkbox"> Rewrite corresponding sections from task 2 in the past tense adjusting as necessary following the task 3 rubric. All dates should be in the past.
 
@@ -29,7 +29,7 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 
    <input type="checkbox"> For section [H: Conclusion](task3:H), revise *Outcomes* from task 2, discussing the results and effectiveness of the completed project.
 
-   <input type="checkbox"> For section [I: Project Deliverables](task3:I), add examples of deliverables to the appendices.
+   <input type="checkbox"> For section [I:](task3:I) Project Deliverables](task3:I), add examples of deliverables to the appendices.
 
    <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), export as a pdf, and submit.
 
@@ -58,7 +58,7 @@ The requirements for this section are identical to that of [task 2 section B](ta
 
 (task3:C)=
 ## Section C: Changes to Project Environment
-Using task 2 sections [D](task2:D) and [E](task2:E) from task 2, describe how your project changed the client's environment. 
+Using task 2 sections [D](task2:D) and [E](task2:E) from task 2, describe how your project changed the client's environment.
 
 (task3:D)=
 ## Section D: Methodology
@@ -118,7 +118,7 @@ If reusing materials from an open source or actual project, mask any identifying
 ## Sources and Grammar
 
 :::{warning}
-Grammar and sources are the *most common* reason for returned submission! However, even minor grammatical errors can prevent a submission from passing.
+Grammar and sources are the *most common* reason for returned submissions! However, even minor grammatical errors can prevent a submission from passing.
 :::
 
 After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
@@ -130,19 +130,20 @@ Students have reported missed mistakes when using the Google doc Grammarly exten
 :::
 
 
-For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center). 
+For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center).
 
 ## FAQ
 
 **What are the most common reasons task 3 does not pass?**
 
 The most common reasons for returned task 3's:
-1)	Grammar 
-2)	Sources 
-3)	No narrative for [part F, Project Timeline](task3:F).
-4) Insufficient details for section X.
 
-1-3 is easily avoidable. Being cited for "insufficient details" is a matter of subjectivity, but it is also easy to fix -just add more details. Since task 3 mostly implements the already passed plan of task 2 -it is mostly already passed.   
+1. Grammar
+2. Sources
+3. No narrative for [part F, Project Timeline](task3:F).
+4. Insufficient details for section X.
+
+1-3 is easily avoidable. Being cited for "insufficient details" is a matter of subjectivity, but it is also easy to fix -just add more details. Since task 3 mostly implements the already passed plan of task 2 -it is mostly already passed.
 
 **How long should task 3 be?**
 
@@ -158,4 +159,4 @@ Evaluators understand this is a written exercise, and academic timelines rarely 
 
 **I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?**
 
-If you're nearing the end of term, you should submit task 3 as soon as it's ready. If task 2 gets returned, task 3 will also automatically be returned. However, if it passes, task 3 will keep its place in the assessment queue.
+If you're nearing the end of your term, you should submit task 3 as soon as it's ready. If task 2 gets returned, task 3 will also automatically be returned. However, if it passes, task 3 will keep its place in the assessment queue.

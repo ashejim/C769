@@ -10,7 +10,7 @@ great, projects.
 
    <input type="checkbox"> Pass [task 1](task1). 
 
-   <input type="checkbox"> Watch *all* of the [**Task 2 videos**](resources:task2) (they are short). 
+   <input type="checkbox"> Watch *all* of the [**Task 2 videos**](resources:task2) (they are short).
    
    <input type="checkbox"> Watch a section's video, review the corresponding task 2 section, and then write that section to meet the rubric requirements independently. Here's a *suggested* order:
 
