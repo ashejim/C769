@@ -1,5 +1,5 @@
 @echo off
-SET /P Message=Enter git commit comment:
+SET /P Message=Enter git C769 commit comment:
 title compile html, save to repo folder, update GitHub repo and website
 jupyter-book build --all "D:\OneDrive - Western Governors University\jupyter-books\C769"
 echo "Compiling local D:\OneDrive - Western Governors University\jupyter-books\C769 ..."
