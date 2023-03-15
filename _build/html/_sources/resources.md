@@ -131,8 +131,8 @@ Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https:/
 Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word. 
 :::
 
-#### Sources
-Your paper should adhere to [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+#### Sources and formatting
+ Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
 
 ### Libraries
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
