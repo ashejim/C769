@@ -169,7 +169,7 @@ If you're nearing the end of your term, you should submit task 3 as soon as it's
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="executablebooks/jupyter-book"
+   repo="ashejim/C769"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"
