@@ -43,6 +43,40 @@
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "github-org/github-repo");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
@@ -687,7 +721,7 @@ Step 2 will provide a detailed implementation plan outline in section A2. Relate
 <p>Grammar and sources are the <em>most common</em> reason for returned submission! However, even minor grammatical errors can prevent a submission from passing.</p>
 </div>
 <p>After focusing on the content, check your grammar using <a class="reference external" href="https://www.grammarly.com/">Grammarly.com</a> <img alt="" src="https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon" /> (it’s what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in <em>Professional Communication</em>. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.</p>
-<p>For sources, you should follow <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines">APA guidelines</a>. Avoid errors by using the <a class="reference external" href="https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5">MS Word Reference Tool</a> to create and manage references.</p>
+<p>For sources, you should follow <a class="reference external" href="https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524">APA guidelines</a>. Avoid errors by using the <a class="reference external" href="https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5">MS Word Reference Tool</a> to create and manage references.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word.</p>

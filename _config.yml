@@ -37,6 +37,9 @@ html:
   use_issues_button: true
   use_repository_button: true
   google_analytics_id: G-KX2MGTZB0G 
+  comments:
+    utterances:
+      repo: "github-org/github-repo"
   
 parse:
   #myst_substitutions:
