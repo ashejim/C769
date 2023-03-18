@@ -105,3 +105,17 @@ It is a physical or digital technological addition or improvement to the client'
 
 **Can I get the "welcome email?"**
 Yes, contact your assigned course instructor or see the sample [welcome email](resources:general:welcomeemail) in the [C769 Resources section](resources).
+
+% This HTML activates utterances only on this page
+
+## Questions, comments, suggestions? 
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="executablebooks/jupyter-book"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/>

@@ -43,6 +43,40 @@
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "github-org/github-repo");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
@@ -345,6 +379,11 @@ title="Print to PDF"
    FAQ
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#questions-comments-suggestions">
+   Questions, comments, suggestions?
+  </a>
+ </li>
 </ul>
 
     </nav>
@@ -382,6 +421,11 @@ title="Print to PDF"
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#faq">
    FAQ
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#questions-comments-suggestions">
+   Questions, comments, suggestions?
   </a>
  </li>
 </ul>
@@ -480,6 +524,18 @@ title="Print to PDF"
 <p><strong>Can I get the “welcome email?”</strong>
 Yes, contact your assigned course instructor or see the sample <a class="reference internal" href="resources.html#resources-general-welcomeemail"><span class="std std-ref">welcome email</span></a> in the <a class="reference internal" href="resources.html#resources"><span class="std std-ref">C769 Resources section</span></a>.</p>
 </section>
+<section id="questions-comments-suggestions">
+<h2>Questions, comments, suggestions?<a class="headerlink" href="#questions-comments-suggestions" title="Permalink to this headline">#</a></h2>
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="executablebooks/jupyter-book"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/></section>
 </section>
 
     <script type="text/x-thebe-config">
