@@ -211,4 +211,17 @@ You are likely overinterpreting what's required. Rarely are submissions sent bac
 > "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
 **What does this comment mean?**
 
-It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples). 
+It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
+
+## Questions, comments, or suggestions?
+
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="executablebooks/jupyter-book"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/>

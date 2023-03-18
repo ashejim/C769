@@ -54,7 +54,9 @@ Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a
 ## Section B: Other Works
 The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:sources), e.g., (Author year). 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
-- [google.scholar.com](https://scholar.google.com/) 
+- [google.scholar.com](https://scholar.google.com/)
+
+Content from part B of task 2 can be included, but cannot satisfy the task 3 requirements. So cite the task 2 sources if needed elsewhere, but it is recommended to not include the task 2 sources in this section.
 
 (task3:C)=
 ## Section C: Changes to Project Environment
@@ -160,3 +162,16 @@ Evaluators understand this is a written exercise, and academic timelines rarely 
 **I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?**
 
 If you're nearing the end of your term, you should submit task 3 as soon as it's ready. If task 2 gets returned, task 3 will also automatically be returned. However, if it passes, task 3 will keep its place in the assessment queue.
+
+## Questions, comments, or suggestions?
+
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="executablebooks/jupyter-book"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/>

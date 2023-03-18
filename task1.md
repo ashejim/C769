@@ -108,7 +108,8 @@ Yes, contact your assigned course instructor or see the sample [welcome email](r
 
 % This HTML activates utterances only on this page
 
-## Questions, comments, suggestions? 
+## Questions, comments, or suggestions?
+
 <script
    type="text/javascript"
    src="https://utteranc.es/client.js"

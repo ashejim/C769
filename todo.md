@@ -24,3 +24,7 @@
 - ~~update APA guideline link to For sources, you should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524).~~
 
 - update Tawnya's hours 
+
+- ~~add [comment page](https://jupyterbook.org/en/stable/interactive/comments/utterances.html)~~
+
+- add website report page
