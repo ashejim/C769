@@ -17,7 +17,7 @@ How can you help? Feedback! Tell us what we're doing right and what needs improv
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="executablebooks/jupyter-book"
+   repo="ashejim/C769"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"
