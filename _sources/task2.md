@@ -219,7 +219,7 @@ It indicates they could not find a matching in-text citation for every source on
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="executablebooks/jupyter-book"
+   repo="ashejim/C769"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"
