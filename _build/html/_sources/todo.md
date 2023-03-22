@@ -28,3 +28,5 @@
 - ~~add [comment page](https://jupyterbook.org/en/stable/interactive/comments/utterances.html)~~
 
 - add website report page
+
+- ~~add cohort section to resource page.~~
