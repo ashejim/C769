@@ -25,7 +25,6 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see the above [Examples](resources:examples) section. 
 
-
 ## Task 1 Resources
 
 (resources:task1:task1template)=
@@ -118,6 +117,13 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 - [Writing Center](https://my.wgu.edu/success-centers/writing-center)
 
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
+
+(resources:cohort)=
+### Webinars and Cohorts
+
+Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
+
+Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
 
 (resources:grammar)=
 ### Grammar and Sources
