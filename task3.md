@@ -156,14 +156,14 @@ Review the [task 3 examples](resources:examples). As task 3 mainly rewrites task
 See [section I](task3:I). You only need to provide *examples* of actual deliverables you might provide to clients demonstrating a project's completion.
 
 (task3:faq:timeline)=
-**My task 2 timeline has projected end dates of 6 months (since this is what it would take), but I just submitted task 2 and need to complete task 3 now. What should I do?** 
+**My task 2 timeline has projected end dates of 6 months (since this is what it would take), but I just submitted task 2 and need to complete task 3 now. What should I do?**
 
 Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. *Write as if you recently completed the project* -dates do not need to align with those in task 2, but the task 3 start and end dates *must be in the past.* For example, if task 2 had the following:
 
    |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
    --- | --- | ---| ---|
-   |Some milestones |7 days|<span style="color:red">**7/23/2023**</span>|<span style="color:red">**7/30/2023**</span>|
-   |Some deliverables |14 days|<span style="color:red">**7/16/2023**</span>|<span style="color:red">**7/30/2023**</span>|
+   |Some milestones |7 days|<span style="color:red">**7/23/2031**</span>|<span style="color:red">**7/30/2031**</span>|
+   |Some deliverables |14 days|<span style="color:red">**7/16/2031**</span>|<span style="color:red">**7/30/2031**</span>|
    |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
 But task 3 was submitted on 4/28/2023, it might be adjusted by moving back dates such that the timeframes are preserved as follows:
