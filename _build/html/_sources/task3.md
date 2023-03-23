@@ -86,7 +86,7 @@ For the timeline? Yes. They need a timeline for all items on the table, and they
    |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
    ```{note}
-   *All* dates must be in the past. Task 3 is a conclusion report. Write as if you recently completed the project -even if the dates do not align with the task 2 projected end dates. Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. 
+   *All* dates must be in the past. Task 3 is a conclusion report. Write as if you recently completed the project -even if the dates do not align with the task 2 projected end dates. Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. See the [FAQ](task3:faq:timeline) for more details. 
    ```
 
 2. Following the updated timeline, write a narrative explaining any differences from the projected proposal timeline, [task 2 section G](task2:G). If there were no variances, explain why.
@@ -153,11 +153,28 @@ Review the [task 3 examples](resources:examples). As task 3 mainly rewrites task
 
 **My capstone is not a real project. What do I do for the deliverables?**
 
-See [section I](task3:I). You only need to provide *examples* of actual deliverables you might provide to clients demonstrating a project's completion. 
+See [section I](task3:I). You only need to provide *examples* of actual deliverables you might provide to clients demonstrating a project's completion.
 
+(task3:faq:timeline)=
 **My task 2 timeline has projected end dates of 6 months (since this is what it would take), but I just submitted task 2 and need to complete task 3 now. What should I do?** 
 
-Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. *Write as if you recently completed the project -even if the dates do not align with the task 2 projected end dates. 
+Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. *Write as if you recently completed the project* -dates do not need to align with those in task 2, but the task 3 start and end dates *must be in the past.* For example, if task 2 had the following:
+
+   |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
+   --- | --- | ---| ---|
+   |Some milestones |7 days|<span style="color:red">**7/23/2023**</span>|<span style="color:red">**7/30/2023**</span>|
+   |Some deliverables |14 days|<span style="color:red">**7/16/2023**</span>|<span style="color:red">**7/30/2023**</span>|
+   |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
+
+But task 3 was submitted on 4/28/2023, it might be adjusted by moving back dates such that the timeframes are preserved as follows:
+
+   |Milestone or Deliverable  |Planned Duration  | Actual Duration  | Actual Start Date| Actual End date
+   --- | --- | ---| ---| ---|
+   |Some milestones |7 days|7 days|<span style="color:green">**4/21/2023**</span>|<span style="color:green">**4/28/2023**</span>|
+   |Some deliverables |14 days|14 days|<span style="color:green">**4/14/2023**</span>|<span style="color:green">**4/28/2023**</span>|
+   |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
+
+The narrative following the timeline can then explain that the project started earlier than expected (even if these dates preceded task 2's submission).
 
 **I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?**
 
