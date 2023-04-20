@@ -1,0 +1,979 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>C769 Resources &#8212; IT Capstone</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/my_css.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "github-org/github-repo");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-KX2MGTZB0G"></script>
+<script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){ dataLayer.push(arguments); }
+                    gtag('js', new Date());
+                    gtag('config', 'G-KX2MGTZB0G');
+                </script>
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/GT_Headlogo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">IT Capstone</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Welcome to C769!
+                </a>
+            </li>
+        </ul>
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task1.html">
+   Task 1
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task2.html">
+   Task 2
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task3.html">
+   Task 3
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../resources.html">
+   C769 Resources
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ci_page.html">
+   Course Faculty
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../support_this_page.html">
+   Help Support this Website
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/ashejim/C769"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/ashejim/C769/issues/new?title=Issue%20on%20page%20%2F.history/resources_20230420161401.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../_sources/.history/resources_20230420161401.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#examples">
+   Examples
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#excellence-archive">
+     Excellence Archive
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-1-resources">
+   Task 1 Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#topic-approval-form-template">
+     Topic Approval Form Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#waiver-form">
+     Waiver Form
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#overview-video">
+     Overview Video
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-1-examples">
+     Task 1 Examples
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-2-resources">
+   Task 2 Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-template">
+     Task 2 Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-examples">
+     Task 2 Examples
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-videos">
+     Task 2 Videos
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-a1-a2-and-a3">
+       Sections A1, A2, and A3
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-b-and-b1">
+       Sections B and B1
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-c-and-d">
+       Sections C and D
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-e-and-f">
+       Sections E and F
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-g-and-h">
+       Sections G and H
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-3">
+   Task 3
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#completing-task-3">
+     Completing task 3
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-3-template">
+     Task 3 Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-3-examples">
+     Task 3 Examples
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#general-resources">
+   General Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#student-resources">
+     Student Resources
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#webinars-and-cohorts">
+     Webinars and Cohorts
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#grammar-and-sources">
+     Grammar and Sources
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#grammarly-com">
+       Grammarly.com
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sources-and-formatting">
+       Sources and formatting
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#libraries">
+     Libraries
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#welcome-email">
+     Welcome email
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pacing-guide">
+     Pacing Guide
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>C769 Resources</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#examples">
+   Examples
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#excellence-archive">
+     Excellence Archive
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-1-resources">
+   Task 1 Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#topic-approval-form-template">
+     Topic Approval Form Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#waiver-form">
+     Waiver Form
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#overview-video">
+     Overview Video
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-1-examples">
+     Task 1 Examples
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-2-resources">
+   Task 2 Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-template">
+     Task 2 Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-examples">
+     Task 2 Examples
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-2-videos">
+     Task 2 Videos
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-a1-a2-and-a3">
+       Sections A1, A2, and A3
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-b-and-b1">
+       Sections B and B1
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-c-and-d">
+       Sections C and D
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-e-and-f">
+       Sections E and F
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sections-g-and-h">
+       Sections G and H
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#task-3">
+   Task 3
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#completing-task-3">
+     Completing task 3
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-3-template">
+     Task 3 Template
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#task-3-examples">
+     Task 3 Examples
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#general-resources">
+   General Resources
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#student-resources">
+     Student Resources
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#webinars-and-cohorts">
+     Webinars and Cohorts
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#grammar-and-sources">
+     Grammar and Sources
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#grammarly-com">
+       Grammarly.com
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sources-and-formatting">
+       Sources and formatting
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#libraries">
+     Libraries
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#welcome-email">
+     Welcome email
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pacing-guide">
+     Pacing Guide
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="c769-resources">
+<span id="resources"></span><h1>C769 Resources<a class="headerlink" href="#c769-resources" title="Permalink to this headline">#</a></h1>
+<!-- hack to open links in new tab -->
+<head>
+    <base target="_blank">
+</head>
+<ul class="simple">
+<li><p><strong><a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">Your Course Instructor</span></a></strong></p></li>
+<li><p><strong><a class="reference external" href="mailto:ugcapstoneit&#37;&#52;&#48;wgu&#46;edu?cc=Assigned%20course%20instructor&amp;subject=C769&amp;body=Your%20name%20and%20question%20here&#46;%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address&#46;%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A">ugcapstoneit<span>&#64;</span>wgu<span>&#46;</span>edu</a></strong></p></li>
+</ul>
+<section id="examples">
+<span id="resources-examples"></span><h2>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">#</a></h2>
+<p>These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.</p>
+<ul class="simple">
+<li><p><strong>BSNOS:</strong> <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-a.pdf">task 1</a>, <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf">task 2</a>, and <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf">task 3</a></p></li>
+<li><p><strong>BSNOS:</strong> <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-b.pdf">task 1</a></p></li>
+<li><p><strong>BSCIA:</strong> <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task1-bscia-a.pdf">task 1</a>, <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task2-bscia-a.pdf">task 2</a>, and <a class="reference external" href="https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task3-bscia-a.pdf">task 3</a></p></li>
+</ul>
+<section id="excellence-archive">
+<span id="resources-examples-excellence"></span><h3>Excellence Archive<a class="headerlink" href="#excellence-archive" title="Permalink to this headline">#</a></h3>
+<p>The <a class="reference external" href="https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx">Capstone Excellence Archive</a> includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, <em>above and beyond</em> the requirements. Therefore, do not use these as examples of what’s needed to meet the requirements. For a more down-to-earth example of what’s required, see the above <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">Examples</span></a> section.</p>
+</section>
+</section>
+<section id="task-1-resources">
+<h2>Task 1 Resources<a class="headerlink" href="#task-1-resources" title="Permalink to this headline">#</a></h2>
+<section id="topic-approval-form-template">
+<span id="resources-task1-task1template"></span><h3>Topic Approval Form Template<a class="headerlink" href="#topic-approval-form-template" title="Permalink to this headline">#</a></h3>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D"><img alt="Topic Approval Form" src="https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+</section>
+<section id="waiver-form">
+<h3>Waiver Form<a class="headerlink" href="#waiver-form" title="Permalink to this headline">#</a></h3>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7"><img alt="Waiver Form" src="https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+</section>
+<section id="overview-video">
+<span id="resources-task1-overviewvideo"></span><h3>Overview Video<a class="headerlink" href="#overview-video" title="Permalink to this headline">#</a></h3>
+<iframe 
+    src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C769 Overview" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"
+>
+</iframe>
+</section>
+<section id="task-1-examples">
+<h3>Task 1 Examples<a class="headerlink" href="#task-1-examples" title="Permalink to this headline">#</a></h3>
+<p>See the <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">Examples</span></a> and <a class="reference internal" href="../resources.html#resources-examples-excellence"><span class="std std-ref">Excellence Archive</span></a> sections.</p>
+</section>
+</section>
+<section id="task-2-resources">
+<span id="resources-task2"></span><h2>Task 2 Resources<a class="headerlink" href="#task-2-resources" title="Permalink to this headline">#</a></h2>
+<section id="task-2-template">
+<span id="resources-task2-task2template"></span><h3>Task 2 Template<a class="headerlink" href="#task-2-template" title="Permalink to this headline">#</a></h3>
+<p>Write your proposal following <strong>Task 2: The Proposal template</strong>:</p>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs"><img alt="Task 2: the Proposal template" src="https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+</section>
+<section id="task-2-examples">
+<span id="resources-task2-task2example"></span><h3>Task 2 Examples<a class="headerlink" href="#task-2-examples" title="Permalink to this headline">#</a></h3>
+<p>See the <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">Examples</span></a> and <a class="reference internal" href="../resources.html#resources-examples-excellence"><span class="std std-ref">Excellence Archive</span></a> sections.</p>
+</section>
+<section id="task-2-videos">
+<span id="resources-task2-videos"></span><h3>Task 2 Videos<a class="headerlink" href="#task-2-videos" title="Permalink to this headline">#</a></h3>
+<section id="sections-a1-a2-and-a3">
+<h4>Sections A1, A2, and A3<a class="headerlink" href="#sections-a1-a2-and-a3" title="Permalink to this headline">#</a></h4>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" 
+ allowfullscreen allow="autoplay">
+</iframe>
+</section>
+<section id="sections-b-and-b1">
+<h4>Sections B and B1<a class="headerlink" href="#sections-b-and-b1" title="Permalink to this headline">#</a></h4>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
+</section>
+<section id="sections-c-and-d">
+<h4>Sections C and D<a class="headerlink" href="#sections-c-and-d" title="Permalink to this headline">#</a></h4>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1fff04ae-4974-4999-b147-7fcb8d934904&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C and D: Rationale & Current Envrionment" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
+</section>
+<section id="sections-e-and-f">
+<h4>Sections E and F<a class="headerlink" href="#sections-e-and-f" title="Permalink to this headline">#</a></h4>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
+</section>
+<section id="sections-g-and-h">
+<h4>Sections G and H<a class="headerlink" href="#sections-g-and-h" title="Permalink to this headline">#</a></h4>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
+</section>
+</section>
+</section>
+<section id="task-3">
+<h2>Task 3<a class="headerlink" href="#task-3" title="Permalink to this headline">#</a></h2>
+<section id="completing-task-3">
+<span id="resources-task3"></span><h3>Completing task 3<a class="headerlink" href="#completing-task-3" title="Permalink to this headline">#</a></h3>
+<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
+</section>
+<section id="task-3-template">
+<span id="resources-task3-task3template"></span><h3>Task 3 Template<a class="headerlink" href="#task-3-template" title="Permalink to this headline">#</a></h3>
+<p>Write your proposal following <strong>Task 3: The Conclusion template</strong>:</p>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp"><img alt="Task 3: the conclusion template" src="https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+</section>
+<section id="task-3-examples">
+<span id="resources-task3-task3example"></span><h3>Task 3 Examples<a class="headerlink" href="#task-3-examples" title="Permalink to this headline">#</a></h3>
+<p>See the <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">Examples</span></a> and <a class="reference internal" href="../resources.html#resources-examples-excellence"><span class="std std-ref">Excellence Archive</span></a> sections.</p>
+</section>
+</section>
+<section id="general-resources">
+<span id="resources-general"></span><h2>General Resources<a class="headerlink" href="#general-resources" title="Permalink to this headline">#</a></h2>
+<section id="student-resources">
+<h3>Student Resources<a class="headerlink" href="#student-resources" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://my.wgu.edu/success-centers/writing-center">Writing Center</a></p></li>
+<li><p><a class="reference external" href="https://resource-hub.wgu.edu/">Student Resource Hub</a></p></li>
+</ul>
+</section>
+<section id="webinars-and-cohorts">
+<span id="resources-cohort"></span><h3>Webinars and Cohorts<a class="headerlink" href="#webinars-and-cohorts" title="Permalink to this headline">#</a></h3>
+<p>Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled <em>Explore Cohort</em>. The <em>Explore Cohort</em> section will <strong>not be seen once enrollment is closed</strong>. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.</p>
+<p>Email Candice Allen <a class="reference external" href="mailto:ugcapstoneit&#37;&#52;&#48;wgu&#46;edu?cc=candice&#46;allen&#37;&#52;&#48;wgu&#46;edu&amp;subject=C769%20capstone%20cohort&amp;body=Your%20name%20and%20question%20here&#46;%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address&#46;%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A">ugcapstoneit<span>&#64;</span>wgu<span>&#46;</span>edu</a> for more information or questions.</p>
+</section>
+<section id="grammar-and-sources">
+<span id="resources-grammar"></span><h3>Grammar and Sources<a class="headerlink" href="#grammar-and-sources" title="Permalink to this headline">#</a></h3>
+<section id="grammarly-com">
+<span id="resources-grammar-grammarly"></span><h4><a class="reference external" href="http://Grammarly.com">Grammarly.com</a><a class="headerlink" href="#grammarly-com" title="Permalink to this headline">#</a></h4>
+<p>Check your grammar using <a class="reference external" href="https://www.grammarly.com/">Grammarly.com</a> <img alt="" src="https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon" /> (it’s what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in <em>Professional Communication</em>. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.</p>
+</div>
+</section>
+<section id="sources-and-formatting">
+<h4>Sources and formatting<a class="headerlink" href="#sources-and-formatting" title="Permalink to this headline">#</a></h4>
+<p>Sources and format should follow <a class="reference external" href="https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524">APA guidelines</a>. Avoid reference errors by using the <a class="reference external" href="https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5">MS Word Reference Tool</a> to create and manage references.</p>
+</section>
+</section>
+<section id="libraries">
+<h3>Libraries<a class="headerlink" href="#libraries" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://wgu.libguides.com/friendly.php?s=library">WGU’s library</a></p></li>
+<li><p><a class="reference external" href="https://scholar.google.com/">google.scholar.com</a></p></li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>You can search <a class="reference external" href="https://wgu.libguides.com/friendly.php?s=library">WGU’s library</a> and other open-source libraries using <a class="reference external" href="https://scholar.google.com/">google.scholar.com</a> Go to &gt;’Google.scholar&gt;setting&gt;libraires&gt;’
+and then add WGU and other libraries.
+<img src="https://westerngovernorsuniversity-my.sharepoint.com/personal/jim_ashe_wgu_edu/Documents/jupyter-books/C769/url_images/google_scholar_demo.gif" height="200px" /></p>
+</div>
+</section>
+<section id="welcome-email">
+<span id="resources-general-welcomeemail"></span><h3>Welcome email<a class="headerlink" href="#welcome-email" title="Permalink to this headline">#</a></h3>
+<p>We’ve tried to provide everything you need here on this website as a more complete and readily available resource than the “welcome email,” i.e., the <em>non-automated</em> introductory email from your assigned course instructor containing the tips and resources needed to get started in the right direction. However, we often get asked for the email, and I suppose this website would be incomplete without it. So here is an example of a “welcome email.”</p>
+<div class="admonition-a-welcome-email admonition">
+<p class="admonition-title">A Welcome Email</p>
+<p>Welcome to C769! See the <a class="reference external" href="https://ashejim.github.io/C769/intro.html">C769 IT Capstone website (this website)</a> for almost everything you need.</p>
+<p>To understand what the capstone requires, watch <a class="reference external" href="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc">Choosing a project idea</a> and <a class="reference external" href="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944">Capstone Proposal Overview</a>. Your first step is <a class="reference internal" href="../task1.html#task1-chooseatopic"><span class="std std-ref">choosing a topic</span></a>; we recommend a topic proposing a technical solution to a problem -avoiding those that deliver only information (i.e., reports, policies, plans, training, etc.). Though they often need reframing to fit the capstone requirements, past or present work projects make great capstone topics.</p>
+<p>Follow this <strong>Project Checklist</strong></p>
+<ul class="simple">
+<li><p>There is a plainly stated business need/problem for a <em>specific</em> client. Include details of a <em>specific</em> client’s environment and problem.</p></li>
+<li><p>The topic proposes a solution specific to the needs of the client. It is not descriptive (how to do something), prescriptive &gt;(the best way to do something), or strictly a research project.</p></li>
+<li><p>Though this is a wholly written exercise (an actual project is not required), fabricated projects must be indistinguishable from reality, and former work/school projects may need adjusting.</p></li>
+<li><p>The proposed project is related to your program emphasis. The scope may include other elements, but at least one aspect must be relatable to your program’s emphasis.</p></li>
+<li><p>Your solution must include the implementation of a <em><a class="reference internal" href="../task1.html#task1-faq-hard"><span class="std std-ref">hard deliverable</span></a>, e.g., hardware/software</em>. Soft deliverables (training, plans, evaluation, policies, etc.) can also be included but cannot meet the requirements alone.</p></li>
+</ul>
+<p><strong>Task 1</strong></p>
+<ol class="simple">
+<li><p>Understand what the project requires and doesn’t require! Watch the videos in the <a class="reference internal" href="../resources.html#resources-task1-overviewvideo"><span class="std std-ref">Task 1 and 2 resources</span></a> section and review these <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">topic approval, task 2, and task 3 examples</span></a>. An appointment is <em>not</em> required but is encouraged if you have general questions or need guidance.</p></li>
+<li><p>Write the topic approval follwoing the <a class="reference internal" href="../task1.html#task1-topicapproval"><span class="std std-ref">topic approval form</span></a> This document should provide a rough outline summarizing your proposed project. Changes from task 1 to task 2 are allowed and typical; evaluators will not rigorously task 1 and 2.</p></li>
+<li><p>Use <a class="reference internal" href="resources_20230420161433.html#resources-grammar-grammarly"><span class="std std-ref">Grammarly.com</span></a>, clearly mark the IRB statement, and email it to <a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">your course instructor</span></a> for their signature. Appointments before approval are <em>not</em> required but are encouraged if you have concerns.</p></li>
+<li><p>Fill out the <a class="reference internal" href="../task1.html#task1-waiverform"><span class="std std-ref">IT Capstone Waiver form</span></a>, and submit it along with the signed topic approval form to assessments.</p></li>
+</ol>
+<p>Afterward, start <span class="xref myst">task 2</span> -the proposal. For tasks 1, 2, and 3 you can find templates, pacing guides, and more on the <a class="reference external" href="https://ashejim.github.io/C769/intro.html">C769 IT Capstone website</a>.</p>
+</div>
+<p>(resources:)</p>
+</section>
+<section id="pacing-guide">
+<h3>Pacing Guide<a class="headerlink" href="#pacing-guide" title="Permalink to this headline">#</a></h3>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Normal</p></th>
+<th class="head"><p>Accelerated</p></th>
+<th class="head"><p>Instructions/Steps</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Week 1</p></td>
+<td><p>Days 2-3</p></td>
+<td><p>Follow the steps in the <a href="https://ashejim.github.io/C769/task1.html">Task 1 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/intro.html"> welcome video</a>.</li><li>Having trouble defining a topic? <a href="https://ashejim.github.io/C769/ci_page.html">Contact your course intructor</a>.</li><li>Email your completed topic approval form to <a href="https://ashejim.github.io/C769/ci_page.html">your course intructor</a>.</li><li>Submit your <em>signed</em> approval form to Assessments, and get started on the next step!</li></ol></p></td>
+</tr>
+<tr class="row-odd"><td><p>Week 2</p></td>
+<td><p>Days 4-8</p></td>
+<td><p>Follow the steps in the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>.<ol><li>Watch all the <a href="https://ashejim.github.io/C769/resources.html#task-2-videos">Task 2 Videos</a>.</li><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-g-and-h-timeline-outcomes">sections G and H video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections G and H.  </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-e-and-f-methodology-goals">sections E and F video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections E and F.</li> </ol></p></td>
+</tr>
+<tr class="row-even"><td><p>Week 3</p></td>
+<td><p>Days 9-13</p></td>
+<td><p>Continue following the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>. <ol><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-c-and-d-rationale-and-current-environment">sections C and D video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections C and D. </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview">section A video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section A (review and reuse content from C, D, and E).</li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-b-and-b1-review-of-other-work-relations-of-artifacts">section B video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section B.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit! Immediately move on to task 3.</li></ol></p></td>
+</tr>
+<tr class="row-odd"><td><p>Week 4</p></td>
+<td><p>Day 14+</p></td>
+<td><p>Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em> update the Task 2.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit!</li></ol></p></td>
+</tr>
+</tbody>
+</table>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don’t wait on task 2 to start task 3. And submit task 3 early enough to have it returned, revised, and resubmitted.</p>
+</div>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./.history"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Dr. Jim Ashe<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

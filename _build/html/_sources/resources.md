@@ -118,17 +118,17 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
 
-(resources:cohort)=
+(resources:general:cohort)=
 ### Webinars and Cohorts
 
 Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
 
 Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
 
-(resources:grammar)=
+(resources:general:grammar)=
 ### Grammar and Sources
 
-(resources:grammar:grammarly)=
+(resources:general:grammar:grammarly)=
 #### Grammarly.com
 
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
@@ -176,3 +176,15 @@ Follow this **Project Checklist**
  
 Afterward, start [task 2](task2) -the proposal. For tasks 1, 2, and 3 you can find templates, pacing guides, and more on the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html). 
 ```
+(resources:general:pacing)=
+### Pacing Guide
+
+|          Normal      | Accelerated                          |Instructions/Steps|
+|----------------|-------------------------------|-----------------------------|
+| Week 1 | Days 2-3 | Follow the steps in the <a href="https://ashejim.github.io/C769/task1.html">Task 1 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/intro.html"> welcome video</a>.</li><li>Having trouble defining a topic? <a href="https://ashejim.github.io/C769/ci_page.html">Contact your course intructor</a>.</li><li>Email your completed topic approval form to <a href="https://ashejim.github.io/C769/ci_page.html">your course intructor</a>.</li><li>Submit your <em>signed</em> approval form to Assessments, and get started on the next step!</li></ol>|
+| Week 2 | Days 4-8 | Follow the steps in the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>.<ol><li>Watch all the <a href="https://ashejim.github.io/C769/resources.html#task-2-videos">Task 2 Videos</a>.</li><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-g-and-h-timeline-outcomes">sections G and H video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections G and H.  </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-e-and-f-methodology-goals">sections E and F video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections E and F.</li> </ol>|
+| Week 3 | Days 9-13 | Continue following the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>. <ol><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-c-and-d-rationale-and-current-environment">sections C and D video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections C and D. </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview">section A video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section A (review and reuse content from C, D, and E).</li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-b-and-b1-review-of-other-work-relations-of-artifacts">section B video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section B.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit! Immediately move on to task 3.</li></ol>|
+| Week 4 | Day 14+ | Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em> update the Task 2.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit!</li></ol>|
+
+```{warning}
+Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don't wait on task 2 to start task 3. And submit task 3 early enough to have it returned, revised, and resubmitted.  
