@@ -30,7 +30,8 @@
 - add website report page
 
 - ~~add cohort section to resource page.~~
-- add pacing guide to replace link on COS page
+- ~~add pacing guide~~ 
+- submit ticket to replace pacing guide link on COS page
 
 
 ```
