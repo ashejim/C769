@@ -34,7 +34,7 @@ great, projects.
 
    </div>
 
-   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), review the sources in the [task 2 examples](resources:examples), export as a pdf, and submit.
+   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:grammar), review the sources in the [task 2 examples](resources:examples), export as a pdf, and submit.
 
    <input type="checkbox"> Start [task 3](task3)!
 
@@ -74,12 +74,12 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 </iframe>
 :::
 
-Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. And you can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. Most importantly, you must have **four** different works cited following [APA guidelines](task2:sources). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research.
+Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. And you can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. Most importantly, you must have **four** different works cited following [APA guidelines](task2:grammar). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research.
 
 1. **Review a work.** For example, online articles, blogs, case studies, white papers, videos, etc.
 2. **Summarize the work.** Simply tell your reader what's in the resource you reviewed, no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
 3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution.
-4. **Include an APA style in-text citation,** e.g., (Author, year); follow  [APA guidelines and use the MS reference tool] see (task2:sources)
+4. **Include an APA style in-text citation,** e.g., (Author, year); follow  [APA guidelines and use the MS reference tool] see (task2:grammar)
 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
@@ -173,23 +173,22 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Time-based metrics work best, for example, from page 18 of the [task 2 example](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf),
 >...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union {cite:p}`task_2_example`.
 
-(task2:sources)=
-## Sources and Grammar
+(task2:grammar)=
+## Grammar, Sources, and APA
+
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
+
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
-Grammar and sources are the *most common* reason for returned submission! However, even minor grammatical errors can prevent a submission from passing.
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
-After focusing on the content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
 
-For sources, you should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
 
-:::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
-:::
-
-For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center). 
-
+(task2:faq)=
 ## FAQ
 **I've completed task 2. Should I send it to my course instructor for review?** 
 

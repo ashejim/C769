@@ -109,6 +109,34 @@ Write your proposal following **Task 3: The Conclusion template**:
 
 See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
 
+(resources:general:grammar)=
+## Grammar, Sources, and APA
+
+- [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon)
+- [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5)
+- [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center)
+- [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
+- [APA resource hub](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524)
+- [Guide to Avoiding Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+
+(resources:general:grammar:grammarly)=
+### Grammarly.com
+
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+
+:::{warning}
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word. 
+:::
+
+Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass, they can help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q & A sessions covering a variety of topics which include general writing and grammar help. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860) 
+
+(resources:general:grammar:sources)=
+### Sources and APA formatting
+
+Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+
+Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions covering a variety of topics including APA citations and formatting. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
+
 (resources:general)=
 ## General Resources
 
@@ -121,25 +149,19 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 (resources:general:cohort)=
 ### Webinars and Cohorts
 
+(resources:general:cohort:5days)=
+#### 5 days to Finish C769 Task 2 Challenge Cohort  
+
 Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
 
 Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
 
-(resources:general:grammar)=
-### Grammar and Sources
+(resources:general:cohort:WClive)=
+#### Writing Center Live Events
 
-(resources:general:grammar:grammarly)=
-#### Grammarly.com
+The Writing Center offers live Q & A sessions covering a variety of topics such as citing sources with APA, avoiding plagarism, hacks, strategies, tools, etc. Session dates and topics are updated monthly. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
-
-:::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word. 
-:::
-
-#### Sources and formatting
- Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
-
+(resources:general:libraries)=
 ### Libraries
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/) 

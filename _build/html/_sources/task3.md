@@ -31,7 +31,7 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 
    <input type="checkbox"> For section [I:](task3:I) Project Deliverables](task3:I), add examples of deliverables to the appendices.
 
-   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task2:sources), export as a pdf, and submit.
+   <input type="checkbox"> Following APA guidelines, [check grammar and sources](task3:grammar), export as a pdf, and submit.
 
    <input type="checkbox"> Submit, pass, and graduate! 
 
@@ -52,7 +52,7 @@ Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a
 
 (task3:B)=
 ## Section B: Other Works
-The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:sources), e.g., (Author year). 
+The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:grammar), e.g., (Author year). 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
 
@@ -116,24 +116,22 @@ If reusing materials from an open source or actual project, mask any identifying
 <img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" />
 ```
 
-(task3:sources)=
-## Sources and Grammar
+(task3:grammar)=
+## Grammar, Sources, and APA
+
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
+
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
-Grammar and sources are the *most common* reason for returned submissions! However, even minor grammatical errors can prevent a submission from passing.
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
-After focusing on content, check your grammar using [Grammarly.com](https://www.grammarly.com/) ![](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught. 
+Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
 
-For sources, you should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references.
+Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
 
-:::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version and checking grammar in MS Word. 
-:::
-
-
-For the best writing help contact the [Writing Center](https://my.wgu.edu/success-centers/writing-center).
-
+(task3:faq)=
 ## FAQ
 
 **What are the most common reasons task 3 does not pass?**
