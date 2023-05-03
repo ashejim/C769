@@ -1,0 +1,601 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Task 1 &#8212; IT Capstone</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/my_css.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "github-org/github-repo");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-KX2MGTZB0G"></script>
+<script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){ dataLayer.push(arguments); }
+                    gtag('js', new Date());
+                    gtag('config', 'G-KX2MGTZB0G');
+                </script>
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/GT_Headlogo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">IT Capstone</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Welcome to C769!
+                </a>
+            </li>
+        </ul>
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task1.html">
+   Task 1
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task2.html">
+   Task 2
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../task3.html">
+   Task 3
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../resources.html">
+   C769 Resources
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ci_page.html">
+   Course Faculty
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../support_this_page.html">
+   Help Support this Website
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/ashejim/C769"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/ashejim/C769/issues/new?title=Issue%20on%20page%20%2F.history/task1_20230503100238.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../_sources/.history/task1_20230503100238.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#choosing-a-topic">
+   Choosing a Topic
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#topic-approval">
+   Topic Approval
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#waiver-form">
+   Waiver Form
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#faq">
+   FAQ
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#questions-comments-or-suggestions">
+   Questions, comments, or suggestions?
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Task 1</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#choosing-a-topic">
+   Choosing a Topic
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#topic-approval">
+   Topic Approval
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#waiver-form">
+   Waiver Form
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#faq">
+   FAQ
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#questions-comments-or-suggestions">
+   Questions, comments, or suggestions?
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="task-1">
+<span id="task1"></span><h1>Task 1<a class="headerlink" href="#task-1" title="Permalink to this headline">#</a></h1>
+<!-- hack to open links in new tab -->
+<head>
+    <base target="_blank">
+</head>
+<section id="choosing-a-topic">
+<span id="task1-chooseatopic"></span><h2>Choosing a Topic<a class="headerlink" href="#choosing-a-topic" title="Permalink to this headline">#</a></h2>
+<p>The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our (<a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">instructors’</span></a>) signature, and we look for the following:</p>
+<ol class="simple">
+<li><p><em>Relation</em> to your degree emphasis.</p></li>
+<li><p>A <em>specific</em> client and problem (you can fabricate a client whose problem needs your chosen solution.)</p></li>
+<li><p>The implementation of a [hard <a class="reference internal" href="../task1.html#task1-faq-hard"><span class="std std-ref">IT deliverable</span></a> that help solves that problem.</p></li>
+</ol>
+<aside class="margin sidebar">
+<p class="sidebar-title">What is a hard IT deliverable?</p>
+<p>A  <em>hard IT deliverable</em> is a physical or digital technological improvement to the client’s environment. Examples include any hardware or software installation or updates. <em>Soft deliverables</em>, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone.</p>
+</aside>
+<p><strong>Watch</strong></p>
+<iframe
+    src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
+    title="Choosing a topic" 
+    width="640px"
+    height="360px"
+    style="border: 1px solid #464646;"
+    allowfullscreen allow="autoplay"
+>
+</iframe>
+<p><strong>Listen</strong>
+IT Audio Series podcast [Choosing Your Topic; view the <a class="reference external" href="https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ConvertingTask2toTask3.docx">transcript</a>.</p>
+<p>The <a class="reference external" href="https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx">Capstone Excellence Archive</a> includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, <em>above and beyond</em> the requirements. Therefore, do not use these as examples of what’s needed to meet the requirements.</p>
+<p>For a more down-to-earth example of what’s required, <a class="reference internal" href="../resources.html#resources-examples"><span class="std std-ref">tasks 1-3 examples</span></a>. Most of the work will be in writing task 2. To understand what task 2 requires, review the <a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA">task 2 template</a> and <a class="reference internal" href="../resources.html#resources-task2-videos"><span class="std std-ref">task 2 section-by-section videos</span></a> (they are short).</p>
+</section>
+<section id="topic-approval">
+<span id="task1-topicapproval"></span><h2>Topic Approval<a class="headerlink" href="#topic-approval" title="Permalink to this headline">#</a></h2>
+<p>Once you’ve decided on a topic, complete the approval form following the template:</p>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D"><img alt="Topic Approval Form" src="https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+<p>Include a rough outline of your client, their problem(s), and your IT plan to fix it. <strong>Email the completed form to</strong> <strong><a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">your course instructor</span></a></strong> who will either approve it with their signature or provide feedback.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The topic approval form must be <em>signed by a</em> <em><a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">C769 course instructor</span></a></em>. Forms without a signature are automatically returned without further review.</p>
+</div>
+<p>Directly emailing your assigned course instructor is the fastest and often best way to get a signature. Whether emailing <a class="reference external" href="mailto:ugcapstoneit&#37;&#52;&#48;wgu&#46;edu?cc=my%20course%20instructor&amp;subject=C769:%20capstone%20topic%20approval&amp;body=Your%20name%20and%20question%20here&#46;%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address&#46;%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A">ugcapstoneit<span>&#64;</span>wgu<span>&#46;</span>edu</a> or your CI directly, always practice professional communication:</p>
+<ul class="simple">
+<li><p>Use your WGU email.</p></li>
+<li><p>Provide a subject, your capstone course, and your program mentor’s name (if not in your signature)</p></li>
+<li><p>Clearly state your questions or requests.</p></li>
+</ul>
+</section>
+<section id="waiver-form">
+<span id="task1-waiverform"></span><h2>Waiver Form<a class="headerlink" href="#waiver-form" title="Permalink to this headline">#</a></h2>
+<!-- Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. -->
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>the waiver form is <strong>only</strong> required if your project is based upon or included restricted information. If no waiver form is submitted, Task 1 <em>B: Capstone Release Form</em>, passes automatically.</p>
+</div>
+<p>In most cases, obtaining authorization can be avoided by fabricating or masking identifying information. But if you choose to move forward using restricted information, you will need to obtain documented permissions and submit them along with a waiver form to Assessments.</p>
+<blockquote>
+<div><p><a class="reference external" href="https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7"><img alt="Waiver Form" src="https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb" /></a></p>
+</div></blockquote>
+<!-- :::{note}
+![waiver checkbox](../C769/url_images/waiver-check-1box.png)
+::: -->
+</section>
+<section id="faq">
+<span id="task1-faq"></span><h2>FAQ<a class="headerlink" href="#faq" title="Permalink to this headline">#</a></h2>
+<p><strong>Do I need to set up an appointment to get approval?</strong></p>
+<p>No. Usually, students email the approval form to their instructor. We then sign to form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with <a class="reference internal" href="../ci_page.html#ci-page"><span class="std std-ref">your course instructor</span></a>. A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor prior to the appointment.</p>
+<p><strong>What if I start writing task 2 and want to change things? Do I need to resubmit task 1?</strong></p>
+<p>No, not unless it’s an entirely different topic. Minor changes from task 1 to task 2 are expected and allowed <em>without updating the approval form</em>. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you’ll be asked to revise the approval form (if at all). So never let task 1 dictate what you do in task 2.</p>
+<p><strong>Can I use projects from other WGU courses?</strong></p>
+<p>Yes! You can use any of your work or academic projects (at WGU or elsewhere) provided no proprietary information is used without permission. Don’t worry about self-plagiarism, as the similarity check will identify and ignore it. Just as in reusing work projects, expect to modify and remold past academic assignments to meet the rubric requirements.</p>
+<p><strong>Do I need an “electronic signature” as specified in the official rubric?</strong></p>
+<p>You can type in your name, use a “fancy” font, or insert an image of your signature.</p>
+<p><strong>What are the common reasons for task 1 being returned?</strong></p>
+<ol class="simple">
+<li><p>No instructor signature on the approval form. You need to send it to us and get a signature <em>before</em> submitting it. Both boxes or no boxes are correctly marked on the waiver form. <em>Mark one and only one box</em>.</p></li>
+<li><p>Both or neither box is marked on the waiver form. Mark one and only one box. See the <span class="xref myst">waiver form instructions</span></p></li>
+</ol>
+<p>Note, the waiver form is <strong>only</strong> required if your project is based upon or included restricted information. Task 1 <em>B: Capstone Release Form</em>, passes automatically if no waiver form is submitted, i.e., the waiver is only needed if it’s needed.</p>
+<p><strong>How many attempts are allowed for each assessment?</strong></p>
+<p>You have unlimited attempts. However, incomplete submissions or submissions significantly falling short of the minimum requirements may be <em>locked</em> from further submissions without instructor approval. Furthermore, such submissions do not receive meaningful evaluator comments.</p>
+<p id="task1-faq-hard"><strong>What is a hard IT deliverable?</strong></p>
+<p>It is a physical or digital technological addition or improvement to the client’s environment. Examples include any hardware or software installation or updates. <em>Soft deliverables</em>, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone.</p>
+<p><strong>Can I get the “welcome email?”</strong>
+Yes, contact your assigned course instructor or see the sample <a class="reference internal" href="../resources.html#resources-general-welcomeemail"><span class="std std-ref">welcome email</span></a> in the <a class="reference internal" href="../resources.html#resources"><span class="std std-ref">C769 Resources section</span></a>.</p>
+<p><strong>Are there any cohorts? I don’t see where to sign-up on my COS page.</strong></p>
+<p>Yes, cohorts run regularly. Enrollment typically opens on Mondays and closes Wednesdays. You can find the link to sign-up under the <em>Explore Cohort</em> section on your C769 COS page. If the section is not visible, either enrollment has closed or the cohort will not be available that week. See <a class="reference internal" href="resources_20230420161401.html#resources-cohort"><span class="std std-ref">Webinars and Cohorts</span></a> for more details.</p>
+</section>
+<section id="questions-comments-or-suggestions">
+<h2>Questions, comments, or suggestions?<a class="headerlink" href="#questions-comments-or-suggestions" title="Permalink to this headline">#</a></h2>
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="ashejim/C769"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/></section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./.history"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Dr. Jim Ashe<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

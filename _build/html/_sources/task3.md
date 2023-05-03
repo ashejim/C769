@@ -16,6 +16,10 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 </iframe>
 :::
 
+:::{sidebar} Listen
+IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.cloudfront.net/sessions/6cf175d6-0a15-4994-94fc-ac98013af208/fbdfa492-7ada-4b0d-9c22-ac98013af20f-c241e41b-3bf1-4f99-9982-ac98013b55bd.mp4?invocationId=55149afb-aac3-eb11-8284-12c206d2fd2b); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ConvertingTask2toTask3.docx).
+:::
+
 *Most* of task 3 will update task 2 from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Review the [task 3 examples](resources:examples) to understand what evaluators expect.  Differences between tasks 2 and 3 are highlighted in the [task 3 template](task3:template) and discussed in the video. You must update task 2 as follows:
 <div class = "tasklist">
 

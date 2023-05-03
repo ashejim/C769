@@ -18,6 +18,7 @@ The approval form ensures you start in the right direction before investing time
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
 ```
 
+- **Watch:** Choosing a Project Idea
 <iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
     title="Choosing a topic" 
@@ -27,6 +28,10 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
     allowfullscreen allow="autoplay"
 >
 </iframe>
+
+- **Listen:**
+IT Audio Series podcast [Choosing Your Topic](https://d2y36twrtb17ty.cloudfront.net/sessions/09c3d32b-1567-4636-88d6-ad5f01616619/3183eabf-4239-4e4a-ae20-ad5f01616620-8792ef88-6d24-43f6-9fe9-ad5f01619cc7.mp4?invocationId=0275eb54-33e0-eb11-8284-12c206d2fd2b); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ChoosingYourTopic.docx).
+
 
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. 
 
