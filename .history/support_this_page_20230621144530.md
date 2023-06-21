@@ -1,6 +1,6 @@
 # Help Support this Website
 
-This website is a collaborative work in progress by the C769 course faculty. However, we have NO official time or financial incentives for our efforts. Hence everything is developed slowly in our spare time. Thank you for your patience!
+This website is a collaborative work in progress by the C769 course faculty. However, we have NO official time or financial incentives for our efforts. Hence everything is developed slowly in our spare time.
 
 How can you help? Feedback! Tell us what we're doing right and what needs improvement. With your help, we can build this into the best possible resource for helping students. Here's how you can contribute:
 
