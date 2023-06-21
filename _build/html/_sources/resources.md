@@ -46,7 +46,7 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 
 ### Task 1 Examples
 
-See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
+See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections.
 
 (resources:task2)=
 ## Task 2 Resources
