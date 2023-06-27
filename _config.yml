@@ -4,8 +4,8 @@
 
 title: IT Capstone
 author: Dr. Jim Ashe
-logo: 
-# logo: GT_Headlogo.png
+# logo: 
+logo: GT_Headlogo.png
 
 #https://jupyterbook.org/en/stable/structure/configure.html#disable-building-files-that-arent-in-the-table-of-contents
 only_build_toc_files: true
