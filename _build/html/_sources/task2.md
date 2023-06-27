@@ -67,6 +67,7 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 ```
 
 (task2:B)=
+
 ## Sections B and B1: Review of Other Work & Relations of Artifacts
 
 :::{sidebar} Watch
@@ -132,14 +133,16 @@ Sections are checked against the rubric requirements *individually*. So when the
 ### Methodology
 
 In this section, you must
-1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SLDC.
-2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc. 
+
+1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SDLC.
+2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc.
 Step 2 will provide a detailed implementation plan outline in section A2. Relate it to a "standard" methodology if using a less known methodology. 
 
 (task2:F)=
 ### Goals, Objects, & Deliverables
 
 For this section,
+
 1. Provide a table outlining project goals, objectives, and deliverables.
 2. Separate from the table, describe each listed goal and objective.
 
@@ -174,14 +177,15 @@ Provide objective, measurable criteria for success. You need specific details so
 >...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union {cite:p}`task_2_example`.
 
 (task2:grammar)=
+
 ## Grammar, Sources, and APA
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
+Students have reported missed mistakes when using the Google Doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
 Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
@@ -190,23 +194,27 @@ Get the best writing help from the writing experts: [WGU Writing Center](https:/
 
 (task2:faq)=
 ## FAQ
-**I've completed task 2. Should I send it to my course instructor for review?** 
+
+### I've completed task 2. Should I send it to my course instructor for review?
 
 If you have specific questions or concerns -yes. However, in most cases, it's best just to submit. What suffices as “sufficient detail” is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
 
 You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach. 
 
-**The task 2 template has suggested page lengths. Are these lengths required?**
+### The task 2 template has suggested page lengths. Are these lengths required?
 
 No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and will vary depending on the project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
 
-**How many submission attempts do I have?**
+### How many submission attempts do I have?
+
 You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.   
 
-**I can't find sources for section B, *Other Works*. What can I do?**
+### I can't find sources for section B, *Other Works*. What can I do?
+
 You are likely overinterpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use referenceable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc. 
 
-**My task two was returned for *sources* stating:**
+### My task two was returned for *sources* stating:
+
 > "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
 **What does this comment mean?**
 

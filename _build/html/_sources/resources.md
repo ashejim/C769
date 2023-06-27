@@ -1,5 +1,7 @@
 (resources)=
+
 # C769 Resources
+
 <!-- hack to open links in new tab -->
 <head>
     <base target="_blank">
@@ -10,6 +12,7 @@
 - **[ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=Assigned%20course%20instructor&subject=C769&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A)**
 
 (resources:examples)=
+
 ## Examples
 
 These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.  
@@ -21,6 +24,7 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 - **BSCIA:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task1-bscia-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task2-bscia-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task3-bscia-a.pdf)
 
 (resources:examples:excellence)=
+
 ### Excellence Archive
 
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see the above [Examples](resources:examples) section. 
@@ -28,6 +32,7 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 ## Task 1 Resources
 
 (resources:task1:task1template)=
+
 ### Topic Approval Form Template
 
 > [![Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
@@ -58,6 +63,7 @@ Write your proposal following **Task 2: The Proposal template**:
 > [![Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA?e=y0cZTs)
 
 (resources:task2:task2example)=
+
 ### Task 2 Examples
 
 See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections.
@@ -103,17 +109,20 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.cloudfront.net/sessions/a96a8bee-7aef-4777-8964-ac9400174e42/0cb7de42-4057-45d6-9282-ac9400174e5b-436eb412-8cec-4cfb-992b-ac9400178e7b.mp4?invocationId=aae81915-bee9-ed11-828e-12b1cb861383); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ConvertingTask2toTask3.docx).
 
 (resources:task3:task3template)=
+
 ### Task 3 Template
 
 Write your proposal following **Task 3: The Conclusion template**:
 > [![Task 3: the conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
 (resources:task3:task3example)=
+
 ### Task 3 Examples
 
 See the [Examples](resources:examples) and [Excellence Archive](resources:examples:excellence) sections. 
 
 (resources:general:grammar)=
+
 ## Grammar, Sources, and APA
 
 - [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon)
@@ -124,17 +133,19 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 - [Guide to Avoiding Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
 
 (resources:general:grammar:grammarly)=
+
 ### Grammarly.com
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word. 
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
 Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass, they can help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q & A sessions covering a variety of topics which include general writing and grammar help. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860) 
 
 (resources:general:grammar:sources)=
+
 ### Sources and APA formatting
 
 Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
@@ -151,19 +162,22 @@ Get the best writing help from the writing experts: [WGU Writing Center](https:/
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
 
 (resources:general:cohort)=
+
 ### Webinars and Cohorts
 
 (resources:general:cohort:5days)=
+
 #### 5 days to Finish C769 Task 2 Challenge Cohort  
 
-Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
+Keep an eye out for the *5 Days to Finish Task 2 Challenge* Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
 
 Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
 
 (resources:general:cohort:WClive)=
+
 #### Writing Center Live Events
 
-The Writing Center offers live Q & A sessions covering a variety of topics such as citing sources with APA, avoiding plagarism, hacks, strategies, tools, etc. Session dates and topics are updated monthly. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
+The Writing Center offers live Q&A sessions covering a variety of topics such as citing sources with APA, avoiding plagiarism, hacks, strategies, tools, etc. Session dates and topics are updated monthly. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
 
 (resources:general:libraries)=
 
@@ -204,7 +218,9 @@ Follow this **Project Checklist**
  
 Afterward, start [task 2](task2) -the proposal. For tasks 1, 2, and 3 you can find templates, pacing guides, and more on the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html). 
 ```
+
 (resources:general:pacing)=
+
 ### Pacing Guide
 
 |          Normal      | Accelerated                          |Instructions/Steps|

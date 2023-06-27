@@ -55,7 +55,9 @@ Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a
 ```
 
 (task3:B)=
+
 ## Section B: Other Works
+
 The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:grammar), e.g., (Author year). 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
@@ -63,18 +65,25 @@ The requirements for this section are identical to that of [task 2 section B](ta
 Content from part B of task 2 can be included, but cannot satisfy the task 3 requirements. So cite the task 2 sources if needed elsewhere, but it is recommended to not include the task 2 sources in this section.
 
 (task3:C)=
+
 ## Section C: Changes to Project Environment
+
 Using task 2 sections [D](task2:D) and [E](task2:E) from task 2, describe how your project changed the client's environment.
 
 (task3:D)=
+
 ## Section D: Methodology
+
 Adding any variations, revise [task 2 section E](task2:E) from task 2 from the future to the past tense.
 
 (task3:E)=
+
 ## Section E: Project Goals and Objectives
+
 Discuss how completed goals and objectives from [task 2 section F](task2:F) were met. *If* any goals or objectives were not met, discuss why.  
 
 (task3:F)=
+
 ## Section F: Project Timeline
 
 <!-- TODO add? Also, do I need planned and actual dates on the milestones?
@@ -100,16 +109,19 @@ For the timeline? Yes. They need a timeline for all items on the table, and they
    ```
 
 (task3:G)=
+
 ## Section G: Unanticipated Requirements
 
 Describe any unanticipated requirements and how you dealt with them. You should repeat anything from the narrative section of [Task 3 section F](task3:F). If everything went as planned (which is a tad unrealistic), explain why. Do not leave this section blank.  
 
 (task3:H)=
+
 ## Section H: Conclusion
 
 Summarize the results and potential effects of your completed project compared to the expected outcomes outlined in [task 2 section H](task3:H).  
 
 (task3:I)=
+
 ## Section I: Deliverables
 
 You must include at least **two** things you created, e.g., network maps, webpages, scripts, training certificates/questions, etc. They can be fabricated entirely, examples, or parts of actual deliverables. 
@@ -121,11 +133,12 @@ If reusing materials from an open source or actual project, mask any identifying
 ```
 
 (task3:grammar)=
+
 ## Grammar, Sources, and APA
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
 
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (blue and green), but even a few grammar mistakes will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
 Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
@@ -136,9 +149,10 @@ Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-
 Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
 
 (task3:faq)=
+
 ## FAQ
 
-**What are the most common reasons task 3 does not pass?**
+### What are the most common reasons task 3 does not pass?
 
 The most common reasons for returned task 3's:
 
@@ -149,16 +163,17 @@ The most common reasons for returned task 3's:
 
 1-3 is easily avoidable. Being cited for "insufficient details" is a matter of subjectivity, but it is also easy to fix -just add more details. Since task 3 mostly implements the already passed plan of task 2 -it is mostly already passed.
 
-**How long should task 3 be?**
+### How long should task 3 be?
 
 Review the [task 3 examples](resources:examples). As task 3 mainly rewrites task, task 3 is typically similar in length. They will assess task 3 independently of task 2. Don't assume they'll compare the two.  
 
-**My capstone is not a real project. What do I do for the deliverables?**
+### My capstone is not a real project. What do I do for the deliverables?
 
 See [section I](task3:I). You only need to provide *examples* of actual deliverables you might provide to clients demonstrating a project's completion.
 
 (task3:faq:timeline)=
-**My task 2 timeline has projected end dates of 6 months (since this is what it would take), but I just submitted task 2 and need to complete task 3 now. What should I do?**
+
+### My task 2 timeline has projected end dates of 6 months (since this is what it would take), but I just submitted task 2 and need to complete task 3 now. What should I do?
 
 Evaluators understand this is a written exercise, and academic timelines rarely sync with real-world timelines. *Write as if you recently completed the project* -dates do not need to align with those in task 2, but the task 3 start and end dates *must be in the past.* For example, if task 2 had the following:
 
@@ -178,7 +193,7 @@ But task 3 was submitted on 4/28/2023, it might be adjusted by moving back dates
 
 The narrative following the timeline can then explain that the project started earlier than expected (even if these dates preceded task 2's submission).
 
-**I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?**
+### I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?
 
 If you're nearing the end of your term, you should submit task 3 as soon as it's ready. If task 2 gets returned, task 3 will also automatically be returned. However, if it passes, task 3 will keep its place in the assessment queue.
 
