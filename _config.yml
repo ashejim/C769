@@ -4,7 +4,8 @@
 
 title: IT Capstone
 author: Dr. Jim Ashe
-logo: 
+logo: ./url_images/logo2.png
+# https://davi.deminasi.com/%EA%B8%B0%EC%88%A0-%EC%95%84%EC%9D%B4%EC%BD%98-png.html
 # logo: GT_Headlogo.png removed until branding practices are resolved.  
 
 #https://jupyterbook.org/en/stable/structure/configure.html#disable-building-files-that-arent-in-the-table-of-contents
