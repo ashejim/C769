@@ -4,7 +4,7 @@ Welcome! The IT capstone is a written project demonstrating competency in your f
 
 The capstone includes three parts:
 
-1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you started in the right direction.
+1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you start in the right direction.
 2. **Task two:** The Proposal -a detailed paper describing a client's problem and how you will implement an IT solution to solve it. Most of your work will be here.
 3. **Task three:** The Conclusion Report -a detailed paper describing the concluded project proposed in task two. Most of task three repeats task two.
 
@@ -18,9 +18,11 @@ The capstone includes three parts:
 
 **Task 1**
 ^^^
+
 ```{image} ./url_images/task1_thumb.jpg
 :height: 100
 ```
+
 Choose a topic and get approval.
 +++
 Task 1 details {fas}`arrow-right`
@@ -34,9 +36,11 @@ Task 1 details {fas}`arrow-right`
 
 **Task 2**
 ^^^
+
 ```{image} ./url_images/task2_thumb.jpg
 :height: 100
 ```
+
 The Proposal -a detailed paper outlining an IT solution to a client's problem.
 +++
 Task 2 details {fas}`arrow-right`
@@ -50,9 +54,11 @@ Task 2 details {fas}`arrow-right`
 
 **Task 3**
 ^^^
+
 ```{image} ./url_images/task3_thumb.jpg
 :height: 100
 ```
+
 The Conclusion -a detailed paper describing the implementation of the Proposal.
 +++
 Task 3 details {fas}`arrow-right`
@@ -62,12 +68,12 @@ Task 3 details {fas}`arrow-right`
 ## Start Here
 
 First, understand the project's requirements. What they are -and what they aren't. Watch the following video:
-<iframe 
+<iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
     title="C769 Overview" 
     width="640px"
     height="360px"
-    style="border: 1px solid #464646;" 
+    style="border: 1px solid #464646;"
     allowfullscreen allow="autoplay"
 >
 </iframe>

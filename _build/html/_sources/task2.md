@@ -111,9 +111,11 @@ and then add WGU and other libraries.
 The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included. 
 
 (task2:D)=
+
 ### Current Environment
 
 In the **Current Project Environment** section, describe:
+
 1. The client's current state, e.g., number of employees, tech, software, etc.
 2. What's wrong with the client's current state?
 3. Why your solution fixes it?
@@ -130,23 +132,26 @@ Sections are checked against the rubric requirements *individually*. So when the
 :::
 
 (task2:E)=
+
 ### Methodology
 
 In this section, you must
 
 1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SDLC.
 2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc.
-Step 2 will provide a detailed implementation plan outline in section A2. Relate it to a "standard" methodology if using a less known methodology. 
+
+Step 2 provides a detailed implementation plan of what is outlined in section A2. If using a less-known methodology, relate it to a "standard" one.
 
 (task2:F)=
-### Goals, Objects, & Deliverables
+
+### Goals, Objectives, & Deliverables
 
 For this section,
 
 1. Provide a table outlining project goals, objectives, and deliverables.
 2. Separate from the table, describe each listed goal and objective.
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks completed supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks completed supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
 
 ## Sections G and H: Timeline & Outcomes
 
@@ -156,6 +161,7 @@ For this section,
 :::
 
 (task2:G)=
+
 ### Project Timeline with Milestones
 
 Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed. 
@@ -171,6 +177,7 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 ```
 
 (task2:H)=
+
 ### Outcome
 
 Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Time-based metrics work best, for example, from page 18 of the [task 2 example](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf),
