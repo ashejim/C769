@@ -151,7 +151,7 @@ For this section,
 1. Provide a table outlining project goals, objectives, and deliverables.
 2. Separate from the table, describe each listed goal and objective.
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks completed supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
 
 ## Sections G and H: Timeline & Outcomes
 
