@@ -2,7 +2,7 @@
 # Task 1
 <!-- hack to open links in new tab -->
 <head>
-    <base target="_blank">
+    <base target="_blank">https://ashejim.github.io/BSCS/C951.html
 </head>
 
 (task1:chooseatopic)=
@@ -55,7 +55,9 @@ Directly emailing your assigned course instructor is the fastest and often best 
 
 - Use your WGU email.
 - Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
-- Clearly state your questions or requests. 
+- Clearly state your questions or requests.
+
+You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance, and you should out a $\checkmark$ next to the IRB statement. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
 
 (task1:waiverform)=
 ## Waiver Form
@@ -80,7 +82,7 @@ In most cases, obtaining authorization can be avoided by fabricating or masking 
 
 ### Do I need to set up an appointment to get approval?
 
-No. Usually, students email the approval form to their instructor. We then sign to form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor before the appointment.
+No. Usually, students email the approval form to their instructor. We then sign the form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor before the appointment.
 
 ### What if I start writing task 2 and want to change things? Do I need to resubmit task 1?
 
@@ -117,9 +119,13 @@ Yes, contact your assigned course instructor or see the sample [welcome email](r
 
 % This HTML activates utterances only on this page
 
-### Are there any cohorts? I don't see where to sign-up on my COS page
+### Are there any cohorts? I don't see where to sign-up on my COS page.
 
 Yes, cohorts run regularly. Enrollment typically opens on Mondays and closes Wednesdays. You can find the link to sign-up under the *Explore Cohort* section on your C769 COS page. If the section is not visible, either enrollment has closed or the cohort will not be available that week. See [Webinars and Cohorts](resources:cohort) for more details.
+
+### Should I check the IRB statement on the approval form?
+
+You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
 
 ## Questions, comments, or suggestions?
 
