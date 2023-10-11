@@ -42,7 +42,7 @@ IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.clo
 </div>
 
 ```{warning}
-Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticapted Requirments* section is still required.   
+Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticapted Requirements* section is still required.   
 ```
 
 (task3:A)=
