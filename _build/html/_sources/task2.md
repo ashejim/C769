@@ -81,7 +81,7 @@ Think of this section as a literature review where you summarize a work (part B)
 1. **Review a work.** For example, online articles, blogs, case studies, white papers, videos, etc.
 2. **Summarize the work.** Simply tell your reader what's in the resource you reviewed, no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
 3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution.
-4. **Include an APA style in-text citation,** e.g., (Author, year); follow  [APA guidelines and use the MS reference tool] see (task2:grammar)
+4. **Include an APA style in-text citation,** e.g., (Author, year); follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date) and use a [referencing tool](resources:general:grammar:sources).
 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
@@ -189,18 +189,24 @@ Provide objective, measurable criteria for success. You need specific details so
 ## Grammar, Sources, and APA
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
-
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
-Students have reported missed mistakes when using the Google Doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
+Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
-Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
-Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
+Avoid reference errors by using a [referencing tool](resources:general:grammar:sources):
+
+- [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) $\leftarrow$ desktop version only.
+- [JabRef](https://www.jabref.org) $\leftarrow$ free and works on most platforms.
+- [LibreOffice Reference Tool](https://www.ubuntubuzz.com/2015/07/how-to-create-apa-style-bibliography-in-libreoffice.html#google_vignette). - [Download LibreOffice](https://www.libreoffice.org/download) for free.
+
+Get the best help from the [WGU Academic Coaching Center](resources:general:grammar:writing_center).
 
 (task2:faq)=
+
 ## FAQ
 
 ### I've completed task 2. Should I send it to my course instructor for review?
@@ -209,24 +215,24 @@ If you have specific questions or concerns -yes. However, in most cases, it's be
 
 You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach. 
 
-### The task 2 template has suggested page lengths. Are these lengths required?
+### The Task 2 template has suggested page lengths. Are these lengths required?
 
 No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and will vary depending on the project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
 
 ### How many submission attempts do I have?
 
-You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.   
+You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.
 
 ### I can't find sources for section B, *Other Works*. What can I do?
 
-You are likely overinterpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use referenceable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc. 
+You are likely over interpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use any citable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc. 
 
 ### My task two was returned for *sources* stating:
 
 > "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
 **What does this comment mean?**
 
-It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
+It indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use a [referencing tool](resources:general:grammar:sources) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
 
 ### What if I start writing task 2 and want to change things? Do I need to resubmit task 1?
 

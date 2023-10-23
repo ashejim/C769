@@ -125,16 +125,17 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 ## Grammar, Sources, and APA
 
-- [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon)
-- [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5)
-- [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center)
-- [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
-- [APA resource hub](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524)
-- [Guide to Avoiding Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+(resources:general:grammar:writing_center)=
+
+### WGU Coaching Center Writing Help
+
+- [WGU Writing Help Appointments](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Schedule-An-Appointment-With-An-Academic-Coach.aspx#writing-competency-appointments)
+- [WGU Writing Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx#writing-live-events)
+- [WGU Learning Hub: Writing Studio](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Library-of-Articles-for-Academic-Coaching-Center.aspx#learning-hub-writing-studio)
 
 (resources:general:grammar:grammarly)=
 
-### Grammarly.com
+### Grammar
 
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
@@ -148,16 +149,20 @@ Get the best writing help from the writing experts: [WGU Writing Center](https:/
 
 ### Sources and APA formatting
 
-Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
-Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions covering a variety of topics including APA citations and formatting. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
+Avoid reference errors by using a **referencing tool:**
+- [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) $\leftarrow$ desktop version only.
+- [JabRef](https://www.jabref.org) $\leftarrow$ free and works on most platforms.
+- [LibreOffice Reference Tool](https://www.ubuntubuzz.com/2015/07/how-to-create-apa-style-bibliography-in-libreoffice.html#google_vignette). - [Download LibreOffice](https://www.libreoffice.org/download) for free.
 
 (resources:general)=
+
 ## General Resources
 
 ### Student Resources
 
-- [Writing Center](https://my.wgu.edu/success-centers/writing-center)
+- [Academic Coachin6 Center](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter). The Coaching Center provides help with writing, Microsoft products, tech, math, and more! 
 
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
 
@@ -175,9 +180,10 @@ Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candic
 
 (resources:general:cohort:WClive)=
 
-#### Writing Center Live Events
+#### WGU Academic Coaching Center Live Events
 
-The Writing Center offers live Q&A sessions covering a variety of topics such as citing sources with APA, avoiding plagiarism, hacks, strategies, tools, etc. Session dates and topics are updated monthly. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860)
+- [Writing  Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx#writing-live-events)
+- [All Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx)
 
 (resources:general:libraries)=
 
@@ -193,30 +199,25 @@ You can search [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 :::
 
 (resources:general:welcomeemail)=
-### Welcome email
+
+### Welcome Email
 
 We've tried to provide everything you need here on this website as a more complete and readily available resource than the "welcome email," i.e., the *non-automated* introductory email from your assigned course instructor containing the tips and resources needed to get started in the right direction. However, we often get asked for the email, and I suppose this website would be incomplete without it. So here is an example of a "welcome email."
 
 ```{admonition} A Welcome Email
-Welcome to C769! See the [C769 IT Capstone website (this website)](https://ashejim.github.io/C769/intro.html) for almost everything you need. 
-
-To understand what the capstone requires, watch [Choosing a project idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and [Capstone Proposal Overview](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944). Your first step is [choosing a topic](task1:chooseatopic); we recommend a topic proposing a technical solution to a problem -avoiding those that deliver only information (i.e., reports, policies, plans, training, etc.). Though they often need reframing to fit the capstone requirements, past or present work projects make great capstone topics.  
-
-Follow this **Project Checklist** 
-
- - There is a plainly stated business need/problem for a *specific* client. Include details of a *specific* client's environment and problem. 
- - The topic proposes a solution specific to the needs of the client. It is not descriptive (how to do something), prescriptive >(the best way to do something), or strictly a research project.  
- - Though this is a wholly written exercise (an actual project is not required), fabricated projects must be indistinguishable from reality, and former work/school projects may need adjusting.  
- - The proposed project is related to your program emphasis. The scope may include other elements, but at least one aspect must be relatable to your program’s emphasis. 
- - Your solution must include the implementation of a *[hard deliverable](task1:faq:hard), e.g., hardware/software*. Soft deliverables (training, plans, evaluation, policies, etc.) can also be included but cannot meet the requirements alone. 
-
-**Task 1**  
- 1. Understand what the project requires and doesn't require! Watch the videos in the [Task 1 and 2 resources](resources:task1:overviewvideo) section and review these [topic approval, task 2, and task 3 examples](resources:examples). An appointment is *not* required but is encouraged if you have general questions or need guidance. 
- 2. Write the topic approval follwoing the [topic approval form](task1:topicapproval) This document should provide a rough outline summarizing your proposed project. Changes from task 1 to task 2 are allowed and typical; evaluators will not rigorously task 1 and 2. 
- 3. Use [Grammarly.com](resources:grammar:grammarly), clearly mark the IRB statement, and email it to [your course instructor](ci_page) for their signature. Appointments before approval are *not* required but are encouraged if you have concerns. 
- 4. Fill out the [IT Capstone Waiver form](task1:waiverform), and submit it along with the signed topic approval form to assessments. 
+Welcome to C769! See the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html) for almost everything you need. To understand what the capstone requires (and does not require), [start here](https://ashejim.github.io/C769/task1.html) and watch these videos: [Project Idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and [Task 2: Proposal Overview](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944). Your first step is choosing a topic; **we recommend a topic proposing a technical solution to a problem -avoiding those that deliver only information (i.e., assessments, policies, plans, training, etc.).** Though they often need reframing to fit the capstone requirements, past or present work projects make great capstone topics. The capstone project can be very similar to your C850 Emerging Technologies project -only here you get to choose the client and problem to solve. 
  
-Afterward, start [task 2](task2) -the proposal. For tasks 1, 2, and 3 you can find templates, pacing guides, and more on the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html). 
+Any IT project is allowable provided it has the following: 
+1. A specific client and IT problem (you can fabricate a client whose problem needs your chosen solution.)
+2. The implementation of a [hard IT deliverable](https://ashejim.github.io/C769/task1.html#task1-faq-hard) (software or hardware) that helps solve that problem.
+This is a wholly written exercise (an actual project is not required), but fabricated projects must be written as realistically as possible from reality. While it may need some revising, you can reuse any of your professional or academic work.  
+
+[Task 1](https://ashejim.github.io/C769/task1.html)
+1. Understand what the project requires and doesn't require! Watch [Project Idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and all the [Task 2 Videos](https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview) (they are short). Then review these [examples](https://ashejim.github.io/C769/resources.html#examples) of actual passing projects.
+2. Write the topic approval (task 1) following the [Approval Form Template](https://ashejim.github.io/C769/task1.html#topic-approval). This document only needs to be an outline of your proposed project. Changes from task 1 to task 2 are allowed and typical; evaluators will not rigorously compare tasks 1 and 2. 
+3. Check the IRB statement and email the completed form to your [assigned course instructor](https://ashejim.github.io/C769/ci_page.html) for signature. Appointments before approval are not required but are encouraged if you have concerns. 
+
+Afterward, you can start working on [Task 2](https://ashejim.github.io/C769/task2.html). 
 ```
 
 (resources:general:pacing)=
@@ -227,8 +228,8 @@ Afterward, start [task 2](task2) -the proposal. For tasks 1, 2, and 3 you can fi
 |----------------|-------------------------------|-----------------------------|
 | Week 1 | Days 2-3 | Follow the steps in the <a href="https://ashejim.github.io/C769/task1.html">Task 1 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/intro.html"> welcome video</a>.</li><li>Having trouble defining a topic? <a href="https://ashejim.github.io/C769/ci_page.html">Contact your course intructor</a>.</li><li>Email your completed topic approval form to <a href="https://ashejim.github.io/C769/ci_page.html">your course intructor</a>.</li><li>Submit your <em>signed</em> approval form to Assessments, and get started on the next step!</li></ol>|
 | Week 2 | Days 4-8 | Follow the steps in the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>.<ol><li>Watch all the <a href="https://ashejim.github.io/C769/resources.html#task-2-videos">Task 2 Videos</a>.</li><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-g-and-h-timeline-outcomes">sections G and H video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections G and H.  </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-e-and-f-methodology-goals">sections E and F video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections E and F.</li> </ol>|
-| Week 3 | Days 9-13 | Continue following the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>. <ol><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-c-and-d-rationale-and-current-environment">sections C and D video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections C and D. </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview">section A video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section A (review and reuse content from C, D, and E).</li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-b-and-b1-review-of-other-work-relations-of-artifacts">section B video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section B.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit! Immediately move on to task 3.</li></ol>|
-| Week 4 | Day 14+ | Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em>, follow instructions for how to modify task 2 sections to fit the task 3 requirements.</li><li>Check <a href="https://ashejim.github.io/C769/task2.html#sources-and-grammar">grammar, sources, APA formatting</a>, and submit!</li></ol>|
+| Week 3 | Days 9-13 | Continue following the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>. <ol><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-c-and-d-rationale-and-current-environment">sections C and D video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections C and D. </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview">section A video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section A (review and reuse content from C, D, and E).</li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-b-and-b1-review-of-other-work-relations-of-artifacts">section B video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section B.</li><li>Check <a href="https://ashejim.github.io/C769/resources.html#grammar-sources-and-apa">grammar, sources, APA formatting</a>, and submit! Immediately move on to task 3.</li></ol>|
+| Week 4 | Day 14+ | Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em>, follow instructions for how to modify task 2 sections to fit the task 3 requirements.</li><li>Check <a href="https://ashejim.github.io/C769/resources.html#grammar-sources-and-apa">grammar, sources, APA formatting</a>, and submit!</li></ol>|
 
 ```{warning}
 Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don't wait on task 2 to start task 3 and submit task 3 early enough to have it returned, revised, and resubmitted.

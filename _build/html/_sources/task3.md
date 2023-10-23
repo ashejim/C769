@@ -46,7 +46,9 @@ Submissions with missing sections are automatically returned. If everything went
 ```
 
 (task3:A)=
+
 ## Section A: Overview
+
 Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a summary of the completed project. In addition, you can reuse any content from related task 3 sections [C](task3:C) and [D](task3:D).
 
 ```{tip}
@@ -58,7 +60,8 @@ Revise [Task 2 section A3](task2:A), adjusting for any variances and providing a
 
 ## Section B: Other Works
 
-The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:grammar), e.g., (Author year). 
+The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:grammar), e.g., (Author year).
+
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
 
@@ -132,21 +135,26 @@ If reusing materials from an open source or actual project, mask any identifying
 <img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" />
 ```
 
-(task3:grammar)=
+(task2:grammar)=
 
 ## Grammar, Sources, and APA
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
-
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
 :::{warning}
 Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
 :::
 
-Sources and format should follow [APA guidelines](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524). Avoid reference errors by using the [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) to create and manage references and review this guide on how to [Avoid Common APA errors](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/I-Need-Help-with-APA-Style/ta-p/33524?attachment-id=333).
+Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
-Get the best writing help from the writing experts: [WGU Writing Center](https://my.wgu.edu/success-centers/writing-center). While Writing Center Instructors cannot say whether a task will pass (no one but your specific evaluator can), they will help you revise your paper to meet WGU competency standards for professional communication, sources, and APA formatting. The Writing Center also offers live Q&A sessions. See a list of upcoming events here: [Writing Center Live Events](https://cm.wgu.edu/t5/Writing-Center-Knowledge-Base/Writing-Center-Live-Events/ta-p/36860).
+Avoid reference errors by using a [referencing tool](resources:general:grammar:sources):
+
+- [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) $\leftarrow$ desktop version only.
+- [JabRef](https://www.jabref.org) $\leftarrow$ free and works on most platforms.
+- [LibreOffice Reference Tool](https://www.ubuntubuzz.com/2015/07/how-to-create-apa-style-bibliography-in-libreoffice.html#google_vignette). - [Download LibreOffice](https://www.libreoffice.org/download) for free.
+
+Get the best help from the [WGU Academic Coaching Center](resources:general:grammar:writing_center).
 
 (task3:faq)=
 
