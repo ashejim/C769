@@ -149,7 +149,7 @@ Get the best writing help from the writing experts: [WGU Writing Center](https:/
 
 ### Sources and APA formatting
 
-Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations) and [APA guide for missing reference information](https://apastyle.apa.org/style-grammar-guidelines/references/missing-information).
 
 Avoid reference errors by using a **referencing tool:**
 - [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) $\leftarrow$ desktop version only.

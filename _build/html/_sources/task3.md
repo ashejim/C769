@@ -42,7 +42,7 @@ IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.clo
 </div>
 
 ```{warning}
-Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticapted Requirments* section is still required.   
+Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticapted Requirements* section is still required.   
 ```
 
 (task3:A)=
@@ -187,8 +187,8 @@ Evaluators understand this is a written exercise, and academic timelines rarely 
 
    |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
    --- | --- | ---| ---|
-   |Some milestones |7 days|<span style="color:red">**7/23/2031**</span>|<span style="color:red">**7/30/2031**</span>|
-   |Some deliverables |14 days|<span style="color:red">**7/16/2031**</span>|<span style="color:red">**7/30/2031**</span>|
+   |Some milestones |7 days|<span style="color:red">**7/23/2023**</span>|<span style="color:red">**7/30/2023**</span>|
+   |Some deliverables |14 days|<span style="color:red">**7/16/2023**</span>|<span style="color:red">**7/30/2023**</span>|
    |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
 But task 3 was submitted on 4/28/2023, it might be adjusted by moving back dates such that the timeframes are preserved as follows:
@@ -201,7 +201,7 @@ But task 3 was submitted on 4/28/2023, it might be adjusted by moving back dates
 
 The narrative following the timeline can then explain that the project started earlier than expected (even if these dates preceded task 2's submission).
 
-### I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes before I submit task 2?
+### I've completed task 3, but task 2 is still in the assessment queue. Should I wait until task 2 passes submitting task 3?
 
 If you're nearing the end of your term, you should submit task 3 as soon as it's ready. If task 2 gets returned, task 3 will also automatically be returned. However, if it passes, task 3 will keep its place in the assessment queue.
 
