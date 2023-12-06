@@ -147,7 +147,7 @@ Accepted items include the following:
 - Training certificates/questions
 - The technical IT product
 
-### Section H: Project deliverables
+### Section I: Project deliverables
 
 Describe each deliverable in the appendices and how it demonstrates evidence of project completion. Refer directly to the corresponding items by its appendix, e.g., "under Appendix A", so readers can easily identify which appendix is being described.
 
