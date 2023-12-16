@@ -182,7 +182,7 @@ Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candic
 
 #### WGU Academic Coaching Center Live Events
 
-- [Writing  Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx#writing-live-events)
+- [Writing Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx#writing-live-events)
 - [All Live Events](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter/SitePages/Live-Events.aspx)
 
 (resources:general:libraries)=
