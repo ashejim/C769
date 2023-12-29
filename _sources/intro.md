@@ -21,6 +21,7 @@ The capstone includes three parts:
 
 ```{image} ./url_images/task1_thumb.jpg
 :height: 100
+:alt: Task 1 logo. A student working at a desk. 
 ```
 
 Choose a topic and get approval.
@@ -39,6 +40,7 @@ Task 1 details {fas}`arrow-right`
 
 ```{image} ./url_images/task2_thumb.jpg
 :height: 100
+:alt: Task 2 logo. A keyboard and mouse.
 ```
 
 The Proposal -a detailed paper outlining an IT solution to a client's problem.
@@ -57,6 +59,7 @@ Task 2 details {fas}`arrow-right`
 
 ```{image} ./url_images/task3_thumb.jpg
 :height: 100
+:alt: Task 3 logo. A person celebrating at a waterfall.
 ```
 
 The Conclusion -a detailed paper describing the implementation of the Proposal.
@@ -75,6 +78,7 @@ First, understand the project's requirements. What they are -and what they aren'
     height="360px"
     style="border: 1px solid #464646;"
     allowfullscreen allow="autoplay"
+    alt= "Title screen for the welcome video."
 >
 </iframe>
 
