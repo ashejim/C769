@@ -162,7 +162,7 @@ Avoid reference errors by using a **referencing tool:**
 
 ### Student Resources
 
-- [Academic Coachin6 Center](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter). The Coaching Center provides help with writing, Microsoft products, tech, math, and more! 
+- [Academic Coaching Center](https://westerngovernorsuniversity.sharepoint.com/sites/AcademicCoachingCenter). The Coaching Center provides help with writing, Microsoft products, tech, math, and more! 
 
 - [Student Resource Hub](https://resource-hub.wgu.edu/)
 
