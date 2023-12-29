@@ -188,6 +188,10 @@ Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candic
 <iframe src="https://wgu.webex.com/recordingservice/sites/wgu/recording/5efb72e688a6103cbfafc67c7f009877/playback" title="" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video: C769 cohort five days to finish!">
 </iframe>
 
+<iframe src="https://wgu.webex.com/wgu/ldr.php?RCID=3a3f70f0a1494acdbfe7db71642273d2
+" title="" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video: C769 cohort five days to finish!">
+</iframe>
+
 (resources:general:cohort:WClive)=
 
 #### WGU Academic Coaching Center Live Events
