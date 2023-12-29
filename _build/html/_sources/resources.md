@@ -183,6 +183,7 @@ Avoid reference errors by using a **referencing tool:**
 Keep an eye out for the *5 Days to Finish Task 2 Challenge* Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
 
 Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
+[webinar link](https://wgu.webex.com/recordingservice/sites/wgu/recording/5efb72e688a6103cbfafc67c7f009877/playback)
 
 <iframe src="https://wgu.webex.com/recordingservice/sites/wgu/recording/5efb72e688a6103cbfafc67c7f009877/playback" title="" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video: C769 cohort five days to finish!">
 </iframe>
