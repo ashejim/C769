@@ -5,14 +5,14 @@
 
 (task3:template)=
 Write your conclusion report following the template, **Task 3: The Conclusion**:
-> [![Task 3: the Conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
+> [![Thumbnail imgae of Task 3: the Conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp)
 
 To gauge the level of detail evaluators typically expect, review these [task 3 examples](resources:examples). 
 
 ## Writing Task 3
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for the video.">
 </iframe>
 :::
 
@@ -134,7 +134,7 @@ In the appendices you must include at least **two** things you created that demo
 ```{tip}
 If reusing materials from an open source or actual project, mask any identifying information.
 
-<img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" />
+<img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" alt= "An animated GIF showing how to modify images."/>
 ```
 
 Accepted items include the following:

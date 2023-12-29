@@ -23,7 +23,7 @@ Approval forms should be sent to your *assigned course instructor.* If they are 
 <table _ngcontent-nfu-c382="" class="margin--bottom--10"><caption _ngcontent-nfu-c382="" class="visually-hidden"> Office hours for Candice Allen </caption><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">MON</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">6:00 AM</span> to <span _ngcontent-nfu-c382="">3:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">TUE</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">10:00 AM</span> to <span _ngcontent-nfu-c382="">6:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">WED</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">9:00 AM</span> to <span _ngcontent-nfu-c382="">7:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">THU</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">6:00 AM</span> to <span _ngcontent-nfu-c382="">2:00 PM </span></div><!----></td></tr><tr _ngcontent-nfu-c382="" class="ng-star-inserted"><th _ngcontent-nfu-c382="" class="text--right"><span _ngcontent-nfu-c382="" class="table-row"><b _ngcontent-nfu-c382="">FRI</b></span></th><td _ngcontent-nfu-c382=""><div _ngcontent-nfu-c382="" class="margin--left ng-star-inserted"><span _ngcontent-nfu-c382="">7:00 AM</span> to <span _ngcontent-nfu-c382="">3:00 PM </span></div><!----></td></tr><!----></table>
 :::
 ```{image} ./url_images/candice_allen-a.jpg
-:alt: Candice Allen
+:alt: headshot of Candice Allen
 :height: 200px
 :align: center
 ```
@@ -39,7 +39,7 @@ Candice Allen has worked for WGU over ten years. Before coming to WGU she taught
 :::
 
 ```{image} ./url_images/jim_ashe-a.jpg
-:alt: Jim Ashe
+:alt: headshot of Jim Ashe
 :height: 200px
 :align: center
 ```
@@ -56,7 +56,7 @@ Dr. James Ashe is a dedicated math, computer science, and statistics teacher wit
 :::
 
 ```{image} ./url_images/tawnya_lee.jpg
-:alt: Tawnya Lee
+:alt: headshot of Tawnya Lee
 :height: 200px
 :align: center
 ```
@@ -73,7 +73,7 @@ Tawnya has been with WGU 2013. Prior to WGU, Tawnya worked for over 12 years as 
 :::
 
 ```{image} ./url_images/charlie_paddock-b.jpg
-:alt: Charlie Paddock
+:alt: headshot of Charlie Paddock
 :height: 200px
 :align: center
 ```
