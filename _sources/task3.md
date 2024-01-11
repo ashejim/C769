@@ -121,7 +121,7 @@ Describe any unanticipated requirements and how you dealt with them. You should 
 
 ## Section H: Conclusion
 
-Summarize the results and potential effects of your completed project compared to the expected outcomes outlined in [task 2 section H](task3:H).  
+Summarize the results and potential effects of your completed project compared to the expected outcomes outlined in [task 2 section H](task2:H).  
 
 (task3:I)=
 
