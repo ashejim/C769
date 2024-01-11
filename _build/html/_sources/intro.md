@@ -19,7 +19,7 @@ The capstone includes three parts:
 **Task 1**
 ^^^
 
-```{image} ./url_images/idea-b.jpg
+```{image} ./url_images/idea-b.png
 :height: 100
 :alt: Task 1 logo. A student working at a desk. 
 ```
@@ -57,7 +57,7 @@ Task 2 details {fas}`arrow-right`
 **Task 3**
 ^^^
 
-```{image} ./url_images/task3_image.jpg
+```{image} ./url_images/task_3_image.jpg
 :height: 100
 :alt: Task 3 logo. A person celebrating at a waterfall.
 ```
