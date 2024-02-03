@@ -74,6 +74,13 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 ### Task 2 Videos
 
+#### Tasks 1-3 Accelerated Plan
+
+Nearing the end of your term? Plan accordingly:
+
+<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae" title="Passing C769 before your end of term" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
+</iframe>
+
 #### Sections A1, A2, and A3
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" 
@@ -246,3 +253,9 @@ Afterward, you can start working on [Task 2](https://ashejim.github.io/C769/task
 ```{warning}
 Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don't wait on task 2 to start task 3 and submit task 3 early enough to have it returned, revised, and resubmitted.
 ```
+### Accelerated Plan
+
+Nearing the end of your term? Plan accordingly:
+
+<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae" title="Passing C769 before your end of term" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
+</iframe>

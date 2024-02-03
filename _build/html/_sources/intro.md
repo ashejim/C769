@@ -83,3 +83,7 @@ First, understand the project's requirements. What they are -and what they aren'
 </iframe>
 
 Task 3, the Report, *mostly* rewrites the Proposal, task 2. Hence, task 2 represents 80-90% of the capstone work. For a more in-depth understanding of this crucial task, view the section-by-section [videos explaining task 2](resources:task2) and the [video on writing task 3](resources:task3).
+
+:::{tip}
+Nearing the end of your term? See the [pacing guide and the Accelerated Plan video](resources:general:pacing) and consider signing up for the [5 days to Finish C769 Task 2 Challenge Cohort](resources:general:cohort:5days).
+:::

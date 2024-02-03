@@ -150,9 +150,110 @@ Step 2 provides a detailed implementation plan of what is outlined in section A2
 For this section,
 
 1. Provide a table outlining project goals, objectives, and deliverables.
+
 2. Separate from the table, describe each listed goal and objective.
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
+At minimum, there should be one goal, each goal should have two objectives, and each objective have one deliverable. Here's an example of what this might look like:
+
+<blockquote>
+   <style type="text/css">
+   .tg  {border-collapse:collapse;border-spacing:0;align:left}
+   .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:8px;
+   overflow:hidden;padding:2px 5px;word-break:normal;}
+   .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:8px;
+   font-weight:normal;overflow:hidden;padding:2px 2px;word-break:normal;}
+   .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+   .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+   .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+   .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+   .tg .tg-0lax{text-align:left;vertical-align:top}
+   </style>
+   <p>
+   <b style="font-size:10pt">F1. Goals, Objectives, and Deliverables Table</b>
+   <!-- https://www.tablesgenerator.com/html_tables# -->
+   <table class="tg" align="left">
+   <thead>
+   <tr>
+      <th class="tg-7btt">Goals</th>
+      <th class="tg-c3ow"><span style="font-weight:bold">Objectives</span></th>
+      <th class="tg-c3ow"><span style="font-weight:bold">Deliverables</span></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td class="tg-lboi" rowspan="5"><span style="font-weight:bold">1.</span> Goal summary </td>
+      <td class="tg-lboi" rowspan="3"><span style="font-weight:bold">1.a. </span><span style="font-weight:normal">Objective summary</span></td>
+      <td class="tg-0pky"><span style="font-weight:bold">1.a.i </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-0pky"><span style="font-weight:bold">1.a.ii </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-0pky"><span style="font-weight:bold">1.a.iii </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-lboi" rowspan="2"><span style="font-weight:bold">1.b. </span><span style="font-weight:normal">Objective summary</span></td>
+      <td class="tg-fymr"><span style="font-weight:bold">1.b.i </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-fymr"><span style="font-weight:bold">1.b.ii </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-lboi" rowspan="3"><span style="font-weight:bold">2.</span> Goal summary</td>
+      <td class="tg-lboi"><span style="font-weight:bold">2.a </span><span style="font-weight:normal">Objective summary</span></td>
+      <td class="tg-fymr"><span style="font-weight:bold">2.a.i </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-lboi" rowspan="2"><span style="font-weight:bold">2.b </span><span style="font-weight:normal">Objective summary</span></td>
+      <td class="tg-fymr"><span style="font-weight:bold">1.b.i </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-fymr"><span style="font-weight:bold">1.b.ii </span><span style="font-weight:normal">Deliverable</span></td>
+   </tr>
+   <tr>
+      <td class="tg-0pky">...</td>
+      <td class="tg-0pky">...</td>
+      <td class="tg-0pky">...</td>
+   </tr>
+   </tbody>
+   </table>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   </p>
+   <p>
+   <b style="font-size:10pt">F2. Goals, Objectives, and Deliverables Descriptions</b>
+   <!-- https://wordtohtml.net/ -->
+   <ul style="font-size:8pt">
+      <li><strong>Goal 1:&nbsp;</strong>Description of the goal<ul style="list-style-type: circle;">
+               <li><strong>Objective 1.a:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
+                     <li><strong>Deliverable 1.a.i:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.a.ii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.a.iii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                  </ul>
+               </li>
+               <li><strong>Objective 1.b:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
+                     <li><strong>Deliverable 1.b.i:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.b.ii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                  </ul>
+               </li>
+         </ul>
+      </li>
+      <li><strong>Goal 2: </strong>Description of the goal<strong>&nbsp;</strong>
+         <ul style="font-weight: initial;">
+               <li><strong>Objective 2.a:</strong> ...</li>
+         </ul>
+      </li>
+   </ul>
+</blockquote>
+   </p>
+
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers). 
 
 ## Sections G and H: Timeline & Outcomes
 
