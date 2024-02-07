@@ -107,6 +107,7 @@ and then add WGU and other libraries.
 :::
 
 (task2:C)=
+
 ### Rationale
 
 The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included. 
@@ -218,6 +219,7 @@ At minimum, there should be one goal, each goal should have two objectives, and 
    </tr>
    </tbody>
    </table>
+   <br>
    <br>
    <br>
    <br>
