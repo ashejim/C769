@@ -78,8 +78,7 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 Nearing the end of your term? Plan accordingly:
 
-<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae" title="Passing C769 before your end of term" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
-</iframe>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" width="560" height="315" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" alt= "Title screen for video"></iframe>
 
 #### Sections A1, A2, and A3
 
@@ -114,7 +113,7 @@ Nearing the end of your term? Plan accordingly:
 
 #### Video
 
-<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
+<iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="Task 3 the Conclusion Report" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
 </iframe>
 
 #### Podcast
