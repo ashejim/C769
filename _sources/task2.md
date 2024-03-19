@@ -342,6 +342,10 @@ This comment indicates they could not find a matching in-text citation for every
 
 No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you might need to revise the approval form (if at all). So never let task 1 dictate what you do in task 2. However, deviating significantly from what was approved could put you at risk of completing a project not meeting the requirements. So while small changes do not need review, substantial changes should be discussed with your assigned course instructor.
 
+### Are the appendices required?
+
+No, not for Task 2. You can remove them from the template if you don't need them.
+
 ## Questions, comments, or suggestions?
 
 <script
