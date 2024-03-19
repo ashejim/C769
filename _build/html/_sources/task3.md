@@ -101,6 +101,7 @@ For this section,
 
 2. Separate from the table, describe how each completed goal and objective were met. For those not met, describe why.
 
+<p>
 <blockquote>
    <style type="text/css">
    .tg  {border-collapse:collapse;border-spacing:0;align:left}
@@ -183,24 +184,24 @@ For this section,
    <ul style="font-size:8pt">
       <li><strong>Goal 1:&nbsp;</strong>Description of how the goal was met.
          <ul style="list-style-type: circle;">
-               <li><strong>Objective 1.a:&nbsp;</strong>Description of how the objective was met.
+               <li><strong> Objective 1.a:&nbsp</strong>;Description of how the objective was met.
                </li>
-               <li><strong>Objective 1.b:&nbsp;</strong>Explanation of why the objective was not met.
+               <li><strong> Objective 1.b:&nbsp</strong>;Explanation of why the objective was not met.
                </li>
          </ul>
       </li>
       <li><strong>Goal 2: </strong>Description of the how the goal was met<strong>&nbsp;</strong>
          <ul style="list-style-type: circle;">
-               <li><strong>Objective 2.a:&nbsp;</strong>Description of how the objective was met.
-               <li><strong>Objective 2.b:&nbsp;</strong>Description of how the objective was met.
+               <li><strong>Objective 2.a:</strong>&nbsp;Description of how the objective was met.
+               <li><strong>Objective 2.b:</strong>&nbsp;Description of how the objective was met.
                </li>
-               <li><strong>...
+               <li><strong>...</strong>
                </li>
          </ul>
       </li>
    </ul>
 </blockquote>
-   </p>
+</p>
 
 (task3:F)=
 
