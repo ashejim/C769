@@ -26,9 +26,17 @@ bibtex_bibfiles:
   - references.bib
 
 # In _config.yml
+# sphinx:
+#   config:
+#     bibtex_reference_style: author_year
+
+# https://github.com/executablebooks/jupyter-book/issues/880
 sphinx:
   config:
     bibtex_reference_style: author_year
+    html_baseurl: https://ashejim.github.io/C769/intro.html
+  extra_extensions:
+    - sphinx_sitemap
 
 # Information about where the book exists on the web
 repository:
