@@ -1,9 +1,9 @@
 (task1)=
 # Task 1
 <!-- hack to open links in new tab -->
-<head>
-    <base target="_blank">https://ashejim.github.io/BSCS/C951.html
-</head>
+<!-- <head>
+    <base target="_blank">
+</head> -->
 
 (task1:chooseatopic)=
 ## Choosing a Topic
