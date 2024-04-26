@@ -9,7 +9,8 @@ logo: ./url_images/logo2.png
 # logo: GT_Headlogo.png removed until branding practices are resolved.  
 
 #https://jupyterbook.org/en/stable/structure/configure.html#disable-building-files-that-arent-in-the-table-of-contents
-only_build_toc_files: true
+# only_build_toc_files: true
+only_build_toc_files: false
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
