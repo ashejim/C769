@@ -78,7 +78,7 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 Nearing the end of your term? Plan accordingly:
 
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" width="560" height="315" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" alt= "Title screen for video"></iframe>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" width="560" height="315" style="border: 1px solid #464646; aria-label="Panopto Embedded Video Player" alt= "Title screen for video"></iframe>
 
 #### Sections A1, A2, and A3
 
