@@ -59,7 +59,7 @@ Directly emailing your assigned course instructor is the fastest and often best 
 - Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
 - Clearly state your questions or requests.
 
-You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance, and you should out a $\checkmark$ next to the IRB statement. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
+You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance, and you should put a $\checkmark$ next to the IRB statement. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
 
 (task1:waiverform)=
 
