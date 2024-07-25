@@ -17,9 +17,10 @@
 
 These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.  
 
-- **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf)
+- **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-b.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf)
 
-- **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-b.pdf)
+<!-- - **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-b.pdf) -->
+<!-- this is a diplicate of example_task1-bscia-a.pdf -->
 
 - **BSCIA:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task1-bscia-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task2-bscia-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSCIA/example_task3-bscia-a.pdf)
 
@@ -87,7 +88,8 @@ Nearing the end of your term? Plan accordingly:
 </iframe>
 
 #### Sections B and B1
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
+
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=6b566692-f4d4-4460-84c1-8b4afc08f2da&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
 </iframe>
 
 #### Sections C and D
@@ -99,6 +101,8 @@ Nearing the end of your term? Plan accordingly:
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
 </iframe>
+
+e3d9d9d5-03c9-425f-abff-ac4c015c1410
 
 #### Sections G and H
 
