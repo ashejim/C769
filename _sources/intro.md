@@ -1,3 +1,8 @@
+
+:::{warning}
+Students starting C769 after 8/25/2024 will be automatically enrolled in the newest vesrion, ROM3. The ROM3 requirements appears to be very similiar to ROM2. However, faculty were unable to review the new course prior to its realse, and there may be some small descrepencies between the new course and our stated best practices. This website will be updated by 9/4.
+:::
+
 # Welcome to C769!
 
 Welcome! The IT capstone is a written project demonstrating competency in your field through communicating the planning and implementation of an IT solution to a business problem.
