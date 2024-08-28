@@ -1,6 +1,6 @@
 
 :::{warning}
-Students starting C769 after 8/25/2024 will be automatically enrolled in the newest vesrion, ROM3. The ROM3 requirements appears to be very similiar to ROM2. However, faculty were unable to review the new course prior to its realse, and there may be some small descrepencies between the new course and our stated best practices. This website will be updated by 9/4.
+Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices. This website will be updated by 9/4.
 :::
 
 # Welcome to C769!
