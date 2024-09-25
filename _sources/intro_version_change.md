@@ -1,7 +1,9 @@
+
+
 # Welcome to C769!
 
 :::{note}
-Students starting C769 *after 8/25/2024* may automatically be enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there are minor discrepancies between the latest course and our stated best practices. We will update ROM3 resources as time allows.
+Students starting C769 8/25/2024 may automatically be enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there are minor discrepancies between the latest course and our stated best practices. We will update ROM3 resources as time allows.
 
 Please discuss your options with your program mentor. C769 course faculty cannot adjust which version you are assigned.
 :::
@@ -58,11 +60,7 @@ ROM3 website {fas}`arrow-right`
 :::
 ::::
 
-:::{Warning}
-For ROM3, the official COS learning resource (`GO TO COURSE MATERIAL`) has yet to be aligned with the new ROM3 rubric (as of 9/7/2024). While mostly revlevant, be aware that there are  discrepancies between the two.
-:::
-
-## C769 feedback
+# C769 feedback
 
 The C769 course faculty *cannot* make changes to most WGU offical resources. This includes the COS page, leanrning resource, or rubrics. For feedback or suggestions on these items, please go to your C769 COS page and click `Course Feedback`.
 
