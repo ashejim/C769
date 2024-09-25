@@ -5,12 +5,14 @@
 # exclude_patterns: [pattern1/*, path/to/myfile.ipynb]
 
 format: jb-book
-root: intro
+# root: intro
+root: intro_ROM3
+
 # replaces actual intro, now intro_old
 parts:
 - caption:
   chapters:
-  - file: task1
+  - file: task1_ROM3
   - file: task2
   - file: task3
 

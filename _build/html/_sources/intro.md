@@ -1,94 +1,85 @@
-
-:::{warning}
-Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices. This website will be updated by 9/4.
-:::
-
 # Welcome to C769!
 
-Welcome! The IT capstone is a written project demonstrating competency in your field through communicating the planning and implementation of an IT solution to a business problem.
+:::{note}
+Students starting C769 *after 8/25/2024* may automatically be enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there are minor discrepancies between the latest course and our stated best practices. We will update ROM3 resources as time allows.
 
-The capstone includes three parts:
+Please discuss your options with your program mentor. C769 course faculty cannot adjust which version you are assigned.
+:::
 
-1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you start in the right direction.
-2. **Task two:** The Proposal -a detailed paper describing a client's problem and how you will implement an IT solution to solve it. Most of your work will be here.
-3. **Task three:** The Conclusion Report -a detailed paper describing the concluded project proposed in task two. Most of task three repeats task two.
+## Which version of C769 are you enrolled in?
 
-::::{card-carousel} 3
+Go to the *Assessments* section of your COS page and review the top line:
+
+::::{card-carousel} 2
 
 :::{card}
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: ./task1.html
+:link: https://ashejim.github.io/C769-ROM2/intro.html
 
-**Task 1**
+<!-- new card title -->
+**C769 ROM2**
+<!-- ![C769 ROM2](./url_images/ROM2-pic-a.png "C769 ROM2") -->
 ^^^
 
-```{image} ./url_images/idea-b.png
-:height: 100
-:alt: Task 1 logo. A student working at a desk. 
-```
+![C769 ROM2](./url_images/ROM2-pic-a.png "C769 ROM2")
+<!-- ```{image} ./url_images/ROM2-pic-a.png
+:height: 65
+:alt: An image for ROM2. It reads "Performance Assessment:IT Capstone Written Project (ROM2)". 
+``` -->
 
-Choose a topic and get approval.
+All resources here align with ROM2: Videos, Templates, Examples,FAQs, etc.
+
 +++
-Task 1 details {fas}`arrow-right`
+ROM2 website {fas}`arrow-right`
 :::
 
 :::{card}
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: ./task2.html
+:link: https://ashejim.github.io/C769/intro.html
 
-**Task 2**
+<!-- new card title -->
+**C769 ROM3**
+<!-- ![C769 ROM3](./url_images/ROM3-pic-a.png "C769 ROM3") -->
 ^^^
 
-```{image} ./url_images/task_2_image.jpg
-:height: 100
-:alt: Task 2 logo. A keyboard and mouse.
-```
+![C769 ROM3](./url_images/ROM3-pic-a.png "C769 ROM3")
+<!-- ```{image} ./url_images/ROM3-pic-a.png
+:height: 65
+:alt: An image for ROM3. It reads "Performance Assessment:IT Capstone Written Project (ROM3)".  -->
+<!-- ``` -->
 
-The Proposal -a detailed paper outlining an IT solution to a client's problem.
+The CI capstone team is developing resources for ROM3!
 +++
-Task 2 details {fas}`arrow-right`
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: ./task3.html
-
-**Task 3**
-^^^
-
-```{image} ./url_images/task_3_image.jpg
-:height: 100
-:alt: Task 3 logo. A person celebrating at a waterfall.
-```
-
-The Conclusion -a detailed paper describing the implementation of the Proposal.
-+++
-Task 3 details {fas}`arrow-right`
+ROM3 website {fas}`arrow-right`
 :::
 ::::
 
-## Start Here
-
-First, understand the project's requirements. What they are -and what they aren't. Watch the following video:
-<iframe
-    src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
-    title="C769 Overview" 
-    width="640px"
-    height="360px"
-    style="border: 1px solid #464646;"
-    allowfullscreen allow="autoplay"
-    alt= "Title screen for the welcome video."
->
-</iframe>
-
-Task 3, the Report, *mostly* rewrites the Proposal, task 2. Hence, task 2 represents 80-90% of the capstone work. For a more in-depth understanding of this crucial task, view the section-by-section [videos explaining task 2](resources:task2) and the [video on writing task 3](resources:task3).
-
-:::{tip}
-Nearing the end of your term? See the [pacing guide and the Accelerated Plan video](resources:general:pacing) and consider signing up for the [5 days to Finish C769 Task 2 Challenge Cohort](resources:general:cohort:5days).
+:::{Warning}
+For ROM3, the official COS learning resource (`GO TO COURSE MATERIAL`) has yet to be aligned with the new ROM3 rubric (as of 9/7/2024). While mostly revlevant, be aware that there are  discrepancies between the two.
 :::
+
+## C769 feedback
+
+The C769 course faculty *cannot* make changes to most WGU offical resources. This includes the COS page, leanrning resource, or rubrics. For feedback or suggestions on these items, please go to your C769 COS page and click `Course Feedback`.
+
+> <img src="https://github.com/ashejim/C769/blob/main/url_images/course_feedback_link.png?raw=true" height="175px" />
+
+This creates a ticket for our product development team.
+
+The C769 course faculty can make changes to these websites, and we greatly appreciate your support in imprving these resources. For feedback or suggestions leave a [comment below](support:comments) and/or our [⭐ repo](https://github.com/ashejim/C769) (you'll need a GitHub account) OR email our team  📧 Email [people who value your input](mailto:ugcapstoneit@wgu.edu?cc=jim.ashe@wgu.edu;dave.huff@wgu.edu&subject=C769%20website%20feedback&body=Your%20feedback%20here.%20Thank%20you!)
+
+
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="ashejim/C769"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/>
