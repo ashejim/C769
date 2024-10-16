@@ -39,7 +39,7 @@ ROM2 website {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://ashejim.github.io/C769/intro.html
+:link: https://ashejim.github.io/C769-ROM3/intro.html
 
 <!-- new card title -->
 **C769 ROM3**
