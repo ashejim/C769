@@ -1,5 +1,12 @@
 # Help Support this Website
 
+```{admonition} You are on the **wrong page!**
+:class: error
+Everyone should go to the new ROM3 C769 website:
+**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
+The ROM2 version has been retired, and this site is no longer maintained.
+```
+
 We are continually trying to improve this page to better help students. How can you help? Feedback! Tell us what we're doing right and what needs improvement. With your help, we can build this into the best possible resource for helping students. Here's how you can contribute:
 
 - Leave a [comment below](support:comments) and/or our [⭐ repo](https://github.com/ashejim/C769) (you'll need a GitHub account).

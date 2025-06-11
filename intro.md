@@ -1,12 +1,12 @@
 
-:::{warning}
-You are on the **wrong page**. Everyone should go to the new ROM3 website:
-**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
-
-The ROM2 version has been retired, and this site is no longer maintained.
-:::
-
 # Welcome to C769!
+
+```{admonition} You are on the **wrong page!**
+:class: error
+Everyone should go to the new ROM3 C769 website:
+**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
+The ROM2 version has been retired, and this site is no longer maintained.
+```
 
 ## Which version of C769 are you enrolled in?
 

@@ -1,8 +1,14 @@
-:::{warning}
+<!-- :::{warning}
 Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices. This website will be updated by 9/4.
-:::
-
+::: -->
 # Task 2
+
+```{admonition} You are on the **wrong page!**
+:class: error
+Everyone should go to the new ROM3 C769 website:
+**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
+The ROM2 version has been retired, and this site is no longer maintained.
+```
 
 Write your proposal following **Task 2: The Proposal template**:
 > [![Thumbnail image of the Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA)
