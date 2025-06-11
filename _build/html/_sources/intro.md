@@ -1,10 +1,12 @@
-# Welcome to C769!
 
-:::{note}
-Students starting C769 *after 8/25/2024* may automatically be enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there are minor discrepancies between the latest course and our stated best practices. We will update ROM3 resources as time allows.
+:::{warning}
+You are on the **wrong page**. Everyone should go to the new ROM3 website:
+**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
 
-Please discuss your options with your program mentor. C769 course faculty cannot adjust which version you are assigned.
+The ROM2 version has been retired, and this site is no longer maintained.
 :::
+
+# Welcome to C769!
 
 ## Which version of C769 are you enrolled in?
 
