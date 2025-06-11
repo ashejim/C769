@@ -2,6 +2,13 @@
 
 # C769 Resources
 
+```{admonition} You are on the **wrong page!**
+:class: error
+Everyone should go to the new ROM3 C769 website:
+**[C769 website](https://ashejim.github.io/C769-ROM3/intro_ROM3.html)**
+The ROM2 version has been retired, and this site is no longer maintained.
+```
+
 <!-- hack to open links in new tab -->
 <head>
     <base target="_blank">
